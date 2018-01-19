@@ -13,3 +13,24 @@
 - Lightweight and efficient
 
 ---
+
+## Advantages**
+
+- Server side JavaScript
+- Single Threaded
+- Easy to implement
+
+---
+
+## Disadvantages**
+
+* JavaScript
+* Queues
+* Analysis paralysis
+
+---
+
+## Install
+
+1. Download LTS/Current
+1. Node Version Manager

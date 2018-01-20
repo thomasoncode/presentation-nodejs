@@ -31,7 +31,6 @@
 ---
 
 ## Install
-
 1. Download LTS/Current
 1. Node Version Manager
 
@@ -47,19 +46,20 @@ Create RESTful web service to access an inventory
 
 ---
 
+**create metadata**
 ```bash
 npm init
 ```
-@[1](create metadata file)
 
 ---?code=package.json&lang=json
-@[1-24](metadata file)
+
+**metadata file or package.json**
 
 ---
 
+**install packages**
 ```bash
 npm install chalk --save
 ```
-@[1](install pacakges)
 
 

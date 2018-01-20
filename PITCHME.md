@@ -46,10 +46,10 @@ Create RESTful web service to access an inventory
 
 ---
 
-**create metadata**
 ```bash
 npm init
 ```
+**create metadata**
 
 ---?code=package.json&lang=json
 
@@ -57,9 +57,10 @@ npm init
 
 ---
 
-**install packages**
 ```bash
 npm install chalk --save
 ```
+**install packages**
+
 
 

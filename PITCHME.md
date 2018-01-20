@@ -67,6 +67,29 @@ RESTful web service to access an inventory
 @[5-15](handle incoming request)
 @[17-19](listen for request)
 
+---
+
+## Module Creation**
+```javascript
+(function(exports, require, module, __filename, __dirname) {
+  /* ... */
+});
+```
+@[1](node injected objects)
+@[2](our written code)
+
+--- 
+
+## TL;DR require
+
+1. core module  
+1. node_modules |
+1. local module |
+
+---
+
+## Exporting
+---?code=./src/network-configuration&lang=javascript
 
 
 

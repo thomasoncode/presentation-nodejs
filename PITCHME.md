@@ -50,7 +50,7 @@ Create RESTful web service to access an inventory
 npm init
 ```
 
----?code=package.json&lang=json
+---?code=./package.json&lang=json
 
 ### Package metadata
 

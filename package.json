@@ -1,0 +1,23 @@
+{
+  "name": "presentation-nodejs",
+  "version": "1.0.0",
+  "description": "A Node.js example application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasoncode/presentation-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "presentation"
+  ],
+  "author": "Matt Thomas",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thomasoncode/presentation-nodejs/issues"
+  },
+  "homepage": "https://github.com/thomasoncode/presentation-nodejs#readme"
+}

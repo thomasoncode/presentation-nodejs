@@ -1,0 +1,5001 @@
+[{
+        "product": "Stringtough",
+        "company": "Jaskolski, Crooks and Abernathy",
+        "price": "$45.82",
+        "slogan": "aggregate strategic metrics",
+        "version": "4.5.6",
+        "year": 2000,
+        "category": "Support",
+        "id": 1
+    },
+    {
+        "product": "Asoka",
+        "company": "Strosin LLC",
+        "price": "$3.26",
+        "slogan": "iterate revolutionary experiences",
+        "version": "0.7.7",
+        "year": 1964,
+        "category": "Human Resources",
+        "id": 2
+    },
+    {
+        "product": "Rank",
+        "company": "Feil, Buckridge and Russel",
+        "price": "$24.68",
+        "slogan": "benchmark sexy web services",
+        "version": "4.52",
+        "year": 1990,
+        "category": "Services",
+        "id": 3
+    },
+    {
+        "product": "Stim",
+        "company": "Jerde, Wilkinson and Kemmer",
+        "price": "$41.96",
+        "slogan": "orchestrate out-of-the-box web-readiness",
+        "version": "0.1.7",
+        "year": 1997,
+        "category": "Accounting",
+        "id": 4
+    },
+    {
+        "product": "Rank",
+        "company": "Bode-Goldner",
+        "price": "$8.36",
+        "slogan": "embrace strategic models",
+        "version": "0.18",
+        "year": 1990,
+        "category": "Research and Development",
+        "id": 5
+    },
+    {
+        "product": "Hatity",
+        "company": "Shanahan-Hartmann",
+        "price": "$30.64",
+        "slogan": "synthesize out-of-the-box experiences",
+        "version": "1.43",
+        "year": 2009,
+        "category": "Engineering",
+        "id": 6
+    },
+    {
+        "product": "Alpha",
+        "company": "Emmerich, Will and Strosin",
+        "price": "$52.49",
+        "slogan": "unleash holistic experiences",
+        "version": "8.6.3",
+        "year": 1991,
+        "category": "Marketing",
+        "id": 7
+    },
+    {
+        "product": "Pannier",
+        "company": "Daniel, Greenfelder and Boehm",
+        "price": "$90.92",
+        "slogan": "visualize extensible convergence",
+        "version": "0.53",
+        "year": 2008,
+        "category": "Sales",
+        "id": 8
+    },
+    {
+        "product": "Bitchip",
+        "company": "Schmitt Inc",
+        "price": "$49.53",
+        "slogan": "enhance vertical convergence",
+        "version": "0.7.7",
+        "year": 1995,
+        "category": "Sales",
+        "id": 9
+    },
+    {
+        "product": "Otcom",
+        "company": "Parisian, Hoeger and Ruecker",
+        "price": "$54.27",
+        "slogan": "deliver enterprise channels",
+        "version": "0.4.2",
+        "year": 2007,
+        "category": "Services",
+        "id": 10
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Batz, Ernser and Leannon",
+        "price": "$53.84",
+        "slogan": "benchmark integrated infomediaries",
+        "version": "0.3.9",
+        "year": 2010,
+        "category": "Accounting",
+        "id": 11
+    },
+    {
+        "product": "Greenlam",
+        "company": "Streich, Schneider and Walter",
+        "price": "$60.24",
+        "slogan": "maximize dot-com eyeballs",
+        "version": "1.0",
+        "year": 2012,
+        "category": "Product Management",
+        "id": 12
+    },
+    {
+        "product": "Bytecard",
+        "company": "Gleason LLC",
+        "price": "$6.41",
+        "slogan": "unleash strategic e-commerce",
+        "version": "7.0",
+        "year": 2006,
+        "category": "Legal",
+        "id": 13
+    },
+    {
+        "product": "Pannier",
+        "company": "Braun, Rau and Wilderman",
+        "price": "$10.12",
+        "slogan": "optimize collaborative metrics",
+        "version": "5.67",
+        "year": 1970,
+        "category": "Product Management",
+        "id": 14
+    },
+    {
+        "product": "Flowdesk",
+        "company": "Stokes-Howe",
+        "price": "$12.60",
+        "slogan": "whiteboard seamless experiences",
+        "version": "0.5.4",
+        "year": 2011,
+        "category": "Engineering",
+        "id": 15
+    },
+    {
+        "product": "Treeflex",
+        "company": "Gutmann, Kautzer and Purdy",
+        "price": "$23.98",
+        "slogan": "grow value-added mindshare",
+        "version": "0.99",
+        "year": 1992,
+        "category": "Research and Development",
+        "id": 16
+    },
+    {
+        "product": "Sonsing",
+        "company": "Rempel, O'Reilly and Collins",
+        "price": "$44.17",
+        "slogan": "optimize web-enabled applications",
+        "version": "2.6",
+        "year": 2011,
+        "category": "Services",
+        "id": 17
+    },
+    {
+        "product": "Redhold",
+        "company": "Funk Inc",
+        "price": "$23.17",
+        "slogan": "enhance innovative web services",
+        "version": "0.81",
+        "year": 1987,
+        "category": "Accounting",
+        "id": 18
+    },
+    {
+        "product": "Opela",
+        "company": "Schulist-Langworth",
+        "price": "$35.91",
+        "slogan": "integrate cutting-edge synergies",
+        "version": "0.62",
+        "year": 2009,
+        "category": "Business Development",
+        "id": 19
+    },
+    {
+        "product": "Pannier",
+        "company": "Powlowski, Tillman and Wolf",
+        "price": "$19.77",
+        "slogan": "engage innovative web-readiness",
+        "version": "9.33",
+        "year": 1977,
+        "category": "Services",
+        "id": 20
+    },
+    {
+        "product": "Biodex",
+        "company": "Sawayn, Hirthe and Stokes",
+        "price": "$30.27",
+        "slogan": "integrate user-centric eyeballs",
+        "version": "7.00",
+        "year": 2011,
+        "category": "Services",
+        "id": 21
+    },
+    {
+        "product": "Greenlam",
+        "company": "Willms and Sons",
+        "price": "$53.26",
+        "slogan": "mesh vertical systems",
+        "version": "0.6.7",
+        "year": 2011,
+        "category": "Sales",
+        "id": 22
+    },
+    {
+        "product": "Y-find",
+        "company": "Zulauf-Yost",
+        "price": "$71.87",
+        "slogan": "repurpose seamless functionalities",
+        "version": "4.0.0",
+        "year": 2005,
+        "category": "Marketing",
+        "id": 23
+    },
+    {
+        "product": "Temp",
+        "company": "Reynolds, Bode and Thompson",
+        "price": "$22.93",
+        "slogan": "revolutionize killer schemas",
+        "version": "5.51",
+        "year": 2003,
+        "category": "Services",
+        "id": 24
+    },
+    {
+        "product": "Stronghold",
+        "company": "Morissette LLC",
+        "price": "$65.62",
+        "slogan": "incentivize sticky systems",
+        "version": "1.0.9",
+        "year": 1993,
+        "category": "Research and Development",
+        "id": 25
+    },
+    {
+        "product": "Span",
+        "company": "Gerlach, Gerlach and Hegmann",
+        "price": "$5.99",
+        "slogan": "e-enable virtual e-markets",
+        "version": "1.80",
+        "year": 2012,
+        "category": "Training",
+        "id": 26
+    },
+    {
+        "product": "Zontrax",
+        "company": "Beer, Wilderman and Gorczany",
+        "price": "$15.61",
+        "slogan": "engineer back-end niches",
+        "version": "5.6",
+        "year": 2012,
+        "category": "Legal",
+        "id": 27
+    },
+    {
+        "product": "Flexidy",
+        "company": "Monahan-McDermott",
+        "price": "$10.26",
+        "slogan": "drive real-time niches",
+        "version": "0.6.4",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 28
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Wehner, Gislason and Mann",
+        "price": "$63.54",
+        "slogan": "incubate 24/7 methodologies",
+        "version": "5.9.3",
+        "year": 1995,
+        "category": "Product Management",
+        "id": 29
+    },
+    {
+        "product": "Tin",
+        "company": "Ullrich-Streich",
+        "price": "$82.29",
+        "slogan": "target 24/7 e-tailers",
+        "version": "0.82",
+        "year": 2005,
+        "category": "Marketing",
+        "id": 30
+    },
+    {
+        "product": "Bamity",
+        "company": "Fisher, Turner and Batz",
+        "price": "$15.75",
+        "slogan": "mesh 24/7 action-items",
+        "version": "0.8.3",
+        "year": 2010,
+        "category": "Services",
+        "id": 31
+    },
+    {
+        "product": "Hatity",
+        "company": "Koss Inc",
+        "price": "$59.03",
+        "slogan": "incubate leading-edge mindshare",
+        "version": "4.2",
+        "year": 2002,
+        "category": "Marketing",
+        "id": 32
+    },
+    {
+        "product": "Duobam",
+        "company": "Tillman-Nolan",
+        "price": "$14.30",
+        "slogan": "scale open-source web-readiness",
+        "version": "5.72",
+        "year": 2004,
+        "category": "Services",
+        "id": 33
+    },
+    {
+        "product": "Job",
+        "company": "Orn-Bernier",
+        "price": "$12.04",
+        "slogan": "engineer front-end e-business",
+        "version": "5.8",
+        "year": 1992,
+        "category": "Sales",
+        "id": 34
+    },
+    {
+        "product": "Cookley",
+        "company": "Lehner-Leffler",
+        "price": "$2.58",
+        "slogan": "drive seamless niches",
+        "version": "0.95",
+        "year": 2005,
+        "category": "Human Resources",
+        "id": 35
+    },
+    {
+        "product": "Zontrax",
+        "company": "Spencer and Sons",
+        "price": "$97.04",
+        "slogan": "morph out-of-the-box web services",
+        "version": "0.8.5",
+        "year": 2008,
+        "category": "Marketing",
+        "id": 36
+    },
+    {
+        "product": "Ronstring",
+        "company": "Stroman-Weber",
+        "price": "$41.07",
+        "slogan": "morph cutting-edge initiatives",
+        "version": "2.8",
+        "year": 1996,
+        "category": "Engineering",
+        "id": 37
+    },
+    {
+        "product": "Solarbreeze",
+        "company": "Jakubowski, Kozey and Gottlieb",
+        "price": "$3.87",
+        "slogan": "harness open-source networks",
+        "version": "0.4.8",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 38
+    },
+    {
+        "product": "Veribet",
+        "company": "Sawayn LLC",
+        "price": "$48.23",
+        "slogan": "unleash sticky e-services",
+        "version": "6.1",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 39
+    },
+    {
+        "product": "Sonsing",
+        "company": "Rosenbaum-Toy",
+        "price": "$48.56",
+        "slogan": "mesh cross-platform action-items",
+        "version": "0.8.2",
+        "year": 2010,
+        "category": "Product Management",
+        "id": 40
+    },
+    {
+        "product": "Y-find",
+        "company": "Terry, Herzog and Johns",
+        "price": "$84.93",
+        "slogan": "architect e-business networks",
+        "version": "4.2.3",
+        "year": 1994,
+        "category": "Research and Development",
+        "id": 41
+    },
+    {
+        "product": "Zamit",
+        "company": "Fadel Inc",
+        "price": "$7.40",
+        "slogan": "mesh bleeding-edge content",
+        "version": "3.00",
+        "year": 1964,
+        "category": "Training",
+        "id": 42
+    },
+    {
+        "product": "Lotstring",
+        "company": "Wuckert, Franecki and Stanton",
+        "price": "$47.88",
+        "slogan": "productize next-generation architectures",
+        "version": "4.67",
+        "year": 2009,
+        "category": "Product Management",
+        "id": 43
+    },
+    {
+        "product": "Duobam",
+        "company": "Kuhn, Maggio and Runolfsson",
+        "price": "$59.43",
+        "slogan": "synergize global partnerships",
+        "version": "0.5.5",
+        "year": 2003,
+        "category": "Engineering",
+        "id": 44
+    },
+    {
+        "product": "Alpha",
+        "company": "Koelpin and Sons",
+        "price": "$95.98",
+        "slogan": "implement rich e-commerce",
+        "version": "5.97",
+        "year": 2011,
+        "category": "Training",
+        "id": 45
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "Daugherty-Predovic",
+        "price": "$94.57",
+        "slogan": "empower magnetic paradigms",
+        "version": "0.77",
+        "year": 2012,
+        "category": "Support",
+        "id": 46
+    },
+    {
+        "product": "Sonsing",
+        "company": "Hudson-Murphy",
+        "price": "$83.35",
+        "slogan": "utilize leading-edge action-items",
+        "version": "8.29",
+        "year": 1994,
+        "category": "Services",
+        "id": 47
+    },
+    {
+        "product": "Transcof",
+        "company": "Fay, Rosenbaum and Bergnaum",
+        "price": "$53.45",
+        "slogan": "incubate bricks-and-clicks portals",
+        "version": "4.56",
+        "year": 2004,
+        "category": "Business Development",
+        "id": 48
+    },
+    {
+        "product": "Aerified",
+        "company": "Kilback, Pouros and Haag",
+        "price": "$97.58",
+        "slogan": "revolutionize magnetic models",
+        "version": "2.90",
+        "year": 1996,
+        "category": "Business Development",
+        "id": 49
+    },
+    {
+        "product": "Cookley",
+        "company": "Price and Sons",
+        "price": "$93.95",
+        "slogan": "engage strategic communities",
+        "version": "0.77",
+        "year": 2003,
+        "category": "Sales",
+        "id": 50
+    },
+    {
+        "product": "Overhold",
+        "company": "Schroeder-Schuster",
+        "price": "$96.42",
+        "slogan": "synergize out-of-the-box solutions",
+        "version": "3.6.7",
+        "year": 2004,
+        "category": "Training",
+        "id": 51
+    },
+    {
+        "product": "Bigtax",
+        "company": "Ondricka, Klocko and Mertz",
+        "price": "$15.86",
+        "slogan": "disintermediate impactful infrastructures",
+        "version": "4.82",
+        "year": 2007,
+        "category": "Legal",
+        "id": 52
+    },
+    {
+        "product": "Konklab",
+        "company": "Dickinson-Pfeffer",
+        "price": "$32.82",
+        "slogan": "redefine out-of-the-box markets",
+        "version": "6.3",
+        "year": 2000,
+        "category": "Marketing",
+        "id": 53
+    },
+    {
+        "product": "Andalax",
+        "company": "Harris Group",
+        "price": "$72.59",
+        "slogan": "deploy vertical action-items",
+        "version": "0.9.3",
+        "year": 2005,
+        "category": "Engineering",
+        "id": 54
+    },
+    {
+        "product": "Job",
+        "company": "Erdman, Schroeder and Daniel",
+        "price": "$63.14",
+        "slogan": "harness bleeding-edge synergies",
+        "version": "2.3.0",
+        "year": 1999,
+        "category": "Support",
+        "id": 55
+    },
+    {
+        "product": "Bitchip",
+        "company": "Langosh, Conn and Mosciski",
+        "price": "$63.58",
+        "slogan": "orchestrate sticky methodologies",
+        "version": "0.9.8",
+        "year": 1988,
+        "category": "Marketing",
+        "id": 56
+    },
+    {
+        "product": "Lotlux",
+        "company": "Maggio-Prohaska",
+        "price": "$17.42",
+        "slogan": "mesh vertical functionalities",
+        "version": "1.8",
+        "year": 1993,
+        "category": "Marketing",
+        "id": 57
+    },
+    {
+        "product": "Temp",
+        "company": "Beer LLC",
+        "price": "$22.17",
+        "slogan": "iterate innovative schemas",
+        "version": "4.9.4",
+        "year": 2012,
+        "category": "Engineering",
+        "id": 58
+    },
+    {
+        "product": "Fixflex",
+        "company": "Kohler-Harber",
+        "price": "$87.85",
+        "slogan": "transform enterprise e-markets",
+        "version": "0.62",
+        "year": 2003,
+        "category": "Legal",
+        "id": 59
+    },
+    {
+        "product": "Transcof",
+        "company": "Cremin Inc",
+        "price": "$76.14",
+        "slogan": "disintermediate cutting-edge niches",
+        "version": "9.2.0",
+        "year": 1990,
+        "category": "Engineering",
+        "id": 60
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Gerlach LLC",
+        "price": "$94.27",
+        "slogan": "maximize intuitive communities",
+        "version": "3.79",
+        "year": 1999,
+        "category": "Services",
+        "id": 61
+    },
+    {
+        "product": "Gembucket",
+        "company": "Schinner-Mosciski",
+        "price": "$93.67",
+        "slogan": "innovate out-of-the-box metrics",
+        "version": "6.22",
+        "year": 1998,
+        "category": "Sales",
+        "id": 62
+    },
+    {
+        "product": "Subin",
+        "company": "Lubowitz LLC",
+        "price": "$49.23",
+        "slogan": "generate robust applications",
+        "version": "5.6.0",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 63
+    },
+    {
+        "product": "Konklab",
+        "company": "Dickinson-Hane",
+        "price": "$37.01",
+        "slogan": "deliver mission-critical interfaces",
+        "version": "8.9.2",
+        "year": 1998,
+        "category": "Support",
+        "id": 64
+    },
+    {
+        "product": "Andalax",
+        "company": "Sipes, Hilpert and Casper",
+        "price": "$93.05",
+        "slogan": "reinvent interactive users",
+        "version": "0.17",
+        "year": 2012,
+        "category": "Sales",
+        "id": 65
+    },
+    {
+        "product": "Andalax",
+        "company": "Lowe, Upton and Sporer",
+        "price": "$17.31",
+        "slogan": "streamline revolutionary vortals",
+        "version": "0.6.9",
+        "year": 2012,
+        "category": "Legal",
+        "id": 66
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Abshire-Konopelski",
+        "price": "$6.36",
+        "slogan": "streamline proactive technologies",
+        "version": "0.8.7",
+        "year": 2007,
+        "category": "Business Development",
+        "id": 67
+    },
+    {
+        "product": "Pannier",
+        "company": "Torphy LLC",
+        "price": "$14.42",
+        "slogan": "extend customized portals",
+        "version": "0.1.7",
+        "year": 2002,
+        "category": "Support",
+        "id": 68
+    },
+    {
+        "product": "Overhold",
+        "company": "Blick Inc",
+        "price": "$2.79",
+        "slogan": "aggregate user-centric niches",
+        "version": "7.65",
+        "year": 2002,
+        "category": "Sales",
+        "id": 69
+    },
+    {
+        "product": "Rank",
+        "company": "Blanda, Harris and Ledner",
+        "price": "$5.86",
+        "slogan": "expedite holistic experiences",
+        "version": "0.8.9",
+        "year": 2004,
+        "category": "Research and Development",
+        "id": 70
+    },
+    {
+        "product": "Latlux",
+        "company": "Murphy, Bernhard and Williamson",
+        "price": "$88.29",
+        "slogan": "iterate efficient action-items",
+        "version": "6.8",
+        "year": 2000,
+        "category": "Human Resources",
+        "id": 71
+    },
+    {
+        "product": "Bamity",
+        "company": "Bartoletti Group",
+        "price": "$50.29",
+        "slogan": "scale transparent supply-chains",
+        "version": "1.5.4",
+        "year": 2001,
+        "category": "Engineering",
+        "id": 72
+    },
+    {
+        "product": "Tin",
+        "company": "Pfannerstill Inc",
+        "price": "$89.79",
+        "slogan": "deliver open-source mindshare",
+        "version": "0.8.2",
+        "year": 1992,
+        "category": "Engineering",
+        "id": 73
+    },
+    {
+        "product": "Regrant",
+        "company": "Fadel Group",
+        "price": "$55.32",
+        "slogan": "strategize visionary convergence",
+        "version": "2.8",
+        "year": 1996,
+        "category": "Support",
+        "id": 74
+    },
+    {
+        "product": "Latlux",
+        "company": "Fay-Durgan",
+        "price": "$85.14",
+        "slogan": "innovate extensible models",
+        "version": "8.8.6",
+        "year": 2004,
+        "category": "Legal",
+        "id": 75
+    },
+    {
+        "product": "Rank",
+        "company": "O'Reilly and Sons",
+        "price": "$72.16",
+        "slogan": "revolutionize seamless web-readiness",
+        "version": "1.2",
+        "year": 1990,
+        "category": "Marketing",
+        "id": 76
+    },
+    {
+        "product": "Hatity",
+        "company": "Stehr, Labadie and Beatty",
+        "price": "$73.39",
+        "slogan": "engage wireless users",
+        "version": "0.38",
+        "year": 2010,
+        "category": "Business Development",
+        "id": 77
+    },
+    {
+        "product": "Subin",
+        "company": "Jacobi and Sons",
+        "price": "$13.47",
+        "slogan": "harness customized e-tailers",
+        "version": "7.80",
+        "year": 2006,
+        "category": "Sales",
+        "id": 78
+    },
+    {
+        "product": "Otcom",
+        "company": "Effertz Inc",
+        "price": "$92.51",
+        "slogan": "repurpose transparent platforms",
+        "version": "2.0.1",
+        "year": 2008,
+        "category": "Product Management",
+        "id": 79
+    },
+    {
+        "product": "Ronstring",
+        "company": "Spinka Inc",
+        "price": "$2.50",
+        "slogan": "repurpose 24/7 models",
+        "version": "1.3",
+        "year": 2002,
+        "category": "Human Resources",
+        "id": 80
+    },
+    {
+        "product": "Ronstring",
+        "company": "Morar LLC",
+        "price": "$6.43",
+        "slogan": "integrate end-to-end action-items",
+        "version": "9.78",
+        "year": 2011,
+        "category": "Business Development",
+        "id": 81
+    },
+    {
+        "product": "Gembucket",
+        "company": "Moen-Berge",
+        "price": "$27.60",
+        "slogan": "repurpose integrated e-services",
+        "version": "6.5",
+        "year": 2012,
+        "category": "Legal",
+        "id": 82
+    },
+    {
+        "product": "Gembucket",
+        "company": "Nader, Mitchell and Hand",
+        "price": "$45.50",
+        "slogan": "orchestrate virtual paradigms",
+        "version": "5.10",
+        "year": 2011,
+        "category": "Services",
+        "id": 83
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Prohaska-Vandervort",
+        "price": "$92.18",
+        "slogan": "transform viral action-items",
+        "version": "4.9",
+        "year": 2006,
+        "category": "Support",
+        "id": 84
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Muller, Zieme and Feeney",
+        "price": "$2.41",
+        "slogan": "harness proactive infomediaries",
+        "version": "4.8.3",
+        "year": 2006,
+        "category": "Engineering",
+        "id": 85
+    },
+    {
+        "product": "Fixflex",
+        "company": "Prohaska, D'Amore and Johnson",
+        "price": "$21.13",
+        "slogan": "innovate e-business mindshare",
+        "version": "3.8.8",
+        "year": 2003,
+        "category": "Human Resources",
+        "id": 86
+    },
+    {
+        "product": "Duobam",
+        "company": "Stamm LLC",
+        "price": "$36.64",
+        "slogan": "transition efficient action-items",
+        "version": "3.0.9",
+        "year": 1993,
+        "category": "Services",
+        "id": 87
+    },
+    {
+        "product": "Tampflex",
+        "company": "Aufderhar, O'Kon and Lynch",
+        "price": "$56.16",
+        "slogan": "synthesize strategic content",
+        "version": "2.5",
+        "year": 1996,
+        "category": "Services",
+        "id": 88
+    },
+    {
+        "product": "Regrant",
+        "company": "Prosacco, Lesch and Lueilwitz",
+        "price": "$59.29",
+        "slogan": "strategize plug-and-play markets",
+        "version": "0.45",
+        "year": 2009,
+        "category": "Accounting",
+        "id": 89
+    },
+    {
+        "product": "Subin",
+        "company": "Lebsack, Steuber and Vandervort",
+        "price": "$55.28",
+        "slogan": "whiteboard efficient content",
+        "version": "0.36",
+        "year": 2007,
+        "category": "Research and Development",
+        "id": 90
+    },
+    {
+        "product": "Konklab",
+        "company": "Swaniawski-Waters",
+        "price": "$47.33",
+        "slogan": "reintermediate intuitive synergies",
+        "version": "0.52",
+        "year": 2002,
+        "category": "Accounting",
+        "id": 91
+    },
+    {
+        "product": "Bigtax",
+        "company": "Collier-Schaefer",
+        "price": "$15.62",
+        "slogan": "leverage leading-edge infomediaries",
+        "version": "3.30",
+        "year": 2008,
+        "category": "Accounting",
+        "id": 92
+    },
+    {
+        "product": "Keylex",
+        "company": "Kerluke-Friesen",
+        "price": "$34.78",
+        "slogan": "integrate 24/365 applications",
+        "version": "2.00",
+        "year": 2006,
+        "category": "Sales",
+        "id": 93
+    },
+    {
+        "product": "Lotlux",
+        "company": "Steuber-Nienow",
+        "price": "$1.46",
+        "slogan": "architect strategic initiatives",
+        "version": "0.8.3",
+        "year": 2003,
+        "category": "Research and Development",
+        "id": 94
+    },
+    {
+        "product": "Regrant",
+        "company": "Trantow, Krajcik and Stokes",
+        "price": "$52.42",
+        "slogan": "disintermediate robust convergence",
+        "version": "6.6",
+        "year": 2000,
+        "category": "Sales",
+        "id": 95
+    },
+    {
+        "product": "Fintone",
+        "company": "Kassulke-Hoppe",
+        "price": "$69.00",
+        "slogan": "strategize back-end content",
+        "version": "9.85",
+        "year": 1985,
+        "category": "Legal",
+        "id": 96
+    },
+    {
+        "product": "Otcom",
+        "company": "Schroeder, Collier and Lang",
+        "price": "$41.78",
+        "slogan": "envisioneer integrated content",
+        "version": "2.49",
+        "year": 2004,
+        "category": "Sales",
+        "id": 97
+    },
+    {
+        "product": "Alpha",
+        "company": "Hand, Bechtelar and Berge",
+        "price": "$90.33",
+        "slogan": "architect customized action-items",
+        "version": "3.6.3",
+        "year": 1999,
+        "category": "Training",
+        "id": 98
+    },
+    {
+        "product": "Bamity",
+        "company": "Murphy and Sons",
+        "price": "$83.18",
+        "slogan": "matrix clicks-and-mortar communities",
+        "version": "0.56",
+        "year": 1993,
+        "category": "Marketing",
+        "id": 99
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Macejkovic-Parker",
+        "price": "$6.52",
+        "slogan": "incentivize user-centric action-items",
+        "version": "5.21",
+        "year": 1996,
+        "category": "Engineering",
+        "id": 100
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Cremin Group",
+        "price": "$87.81",
+        "slogan": "innovate cross-media platforms",
+        "version": "3.1.7",
+        "year": 1996,
+        "category": "Accounting",
+        "id": 101
+    },
+    {
+        "product": "Job",
+        "company": "Gutkowski-Cartwright",
+        "price": "$52.89",
+        "slogan": "synergize magnetic mindshare",
+        "version": "0.36",
+        "year": 2009,
+        "category": "Services",
+        "id": 102
+    },
+    {
+        "product": "Job",
+        "company": "Johns Group",
+        "price": "$28.76",
+        "slogan": "unleash cross-media interfaces",
+        "version": "0.14",
+        "year": 2004,
+        "category": "Business Development",
+        "id": 103
+    },
+    {
+        "product": "Mat Lam Tam",
+        "company": "Kling LLC",
+        "price": "$95.24",
+        "slogan": "visualize viral metrics",
+        "version": "0.7.6",
+        "year": 2007,
+        "category": "Marketing",
+        "id": 104
+    },
+    {
+        "product": "Kanlam",
+        "company": "Bayer LLC",
+        "price": "$80.21",
+        "slogan": "scale extensible systems",
+        "version": "9.2.4",
+        "year": 1990,
+        "category": "Human Resources",
+        "id": 105
+    },
+    {
+        "product": "Redhold",
+        "company": "Bednar-Collins",
+        "price": "$65.12",
+        "slogan": "extend out-of-the-box applications",
+        "version": "0.1.3",
+        "year": 2007,
+        "category": "Business Development",
+        "id": 106
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Pacocha-Mosciski",
+        "price": "$42.92",
+        "slogan": "target ubiquitous infrastructures",
+        "version": "7.1.4",
+        "year": 1998,
+        "category": "Sales",
+        "id": 107
+    },
+    {
+        "product": "Sonair",
+        "company": "Kuphal, Hand and Christiansen",
+        "price": "$63.92",
+        "slogan": "visualize magnetic synergies",
+        "version": "9.2",
+        "year": 2006,
+        "category": "Human Resources",
+        "id": 108
+    },
+    {
+        "product": "Redhold",
+        "company": "Bartell-Hettinger",
+        "price": "$3.40",
+        "slogan": "cultivate interactive bandwidth",
+        "version": "5.3.0",
+        "year": 1999,
+        "category": "Marketing",
+        "id": 109
+    },
+    {
+        "product": "Gembucket",
+        "company": "Hegmann-Reichert",
+        "price": "$99.69",
+        "slogan": "target dot-com communities",
+        "version": "9.1.3",
+        "year": 2012,
+        "category": "Business Development",
+        "id": 110
+    },
+    {
+        "product": "It",
+        "company": "Schmitt, Cremin and Hilll",
+        "price": "$16.82",
+        "slogan": "matrix real-time models",
+        "version": "6.88",
+        "year": 1990,
+        "category": "Engineering",
+        "id": 111
+    },
+    {
+        "product": "Bigtax",
+        "company": "McLaughlin-Schinner",
+        "price": "$9.72",
+        "slogan": "syndicate dynamic schemas",
+        "version": "2.6",
+        "year": 1999,
+        "category": "Services",
+        "id": 112
+    },
+    {
+        "product": "Veribet",
+        "company": "Pagac Inc",
+        "price": "$66.11",
+        "slogan": "deliver dynamic mindshare",
+        "version": "0.2.8",
+        "year": 2003,
+        "category": "Services",
+        "id": 113
+    },
+    {
+        "product": "Namfix",
+        "company": "Kemmer, Langworth and Krajcik",
+        "price": "$58.62",
+        "slogan": "syndicate B2C metrics",
+        "version": "0.1.8",
+        "year": 2005,
+        "category": "Legal",
+        "id": 114
+    },
+    {
+        "product": "Treeflex",
+        "company": "Cole, Stanton and Williamson",
+        "price": "$58.03",
+        "slogan": "iterate integrated technologies",
+        "version": "0.50",
+        "year": 2001,
+        "category": "Legal",
+        "id": 115
+    },
+    {
+        "product": "Greenlam",
+        "company": "Denesik-Dickens",
+        "price": "$9.59",
+        "slogan": "productize dynamic web-readiness",
+        "version": "7.5.8",
+        "year": 2011,
+        "category": "Marketing",
+        "id": 116
+    },
+    {
+        "product": "Lotstring",
+        "company": "Prosacco Group",
+        "price": "$0.67",
+        "slogan": "recontextualize B2B solutions",
+        "version": "0.8.7",
+        "year": 2004,
+        "category": "Sales",
+        "id": 117
+    },
+    {
+        "product": "Tresom",
+        "company": "Fay and Sons",
+        "price": "$0.35",
+        "slogan": "disintermediate frictionless e-commerce",
+        "version": "4.1",
+        "year": 2003,
+        "category": "Engineering",
+        "id": 118
+    },
+    {
+        "product": "Vagram",
+        "company": "Tremblay and Sons",
+        "price": "$82.70",
+        "slogan": "harness impactful applications",
+        "version": "9.2",
+        "year": 1976,
+        "category": "Training",
+        "id": 119
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Lubowitz, Mayer and Koss",
+        "price": "$95.63",
+        "slogan": "synthesize killer solutions",
+        "version": "6.7.1",
+        "year": 1999,
+        "category": "Business Development",
+        "id": 120
+    },
+    {
+        "product": "Fixflex",
+        "company": "Eichmann, Yundt and Fay",
+        "price": "$13.72",
+        "slogan": "orchestrate dot-com mindshare",
+        "version": "8.22",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 121
+    },
+    {
+        "product": "Toughjoyfax",
+        "company": "Hane LLC",
+        "price": "$13.34",
+        "slogan": "aggregate B2B content",
+        "version": "0.27",
+        "year": 2005,
+        "category": "Sales",
+        "id": 122
+    },
+    {
+        "product": "Treeflex",
+        "company": "Blanda-Lowe",
+        "price": "$72.93",
+        "slogan": "productize robust niches",
+        "version": "0.7.7",
+        "year": 1984,
+        "category": "Accounting",
+        "id": 123
+    },
+    {
+        "product": "Keylex",
+        "company": "Predovic, Miller and Gerhold",
+        "price": "$19.36",
+        "slogan": "implement magnetic schemas",
+        "version": "6.32",
+        "year": 2006,
+        "category": "Support",
+        "id": 124
+    },
+    {
+        "product": "Trippledex",
+        "company": "Grady, Kozey and Schroeder",
+        "price": "$30.08",
+        "slogan": "target transparent channels",
+        "version": "2.33",
+        "year": 1950,
+        "category": "Research and Development",
+        "id": 125
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Luettgen, Herman and Bahringer",
+        "price": "$88.16",
+        "slogan": "recontextualize back-end methodologies",
+        "version": "8.1",
+        "year": 1996,
+        "category": "Sales",
+        "id": 126
+    },
+    {
+        "product": "Fixflex",
+        "company": "Sawayn Group",
+        "price": "$32.52",
+        "slogan": "engineer virtual partnerships",
+        "version": "0.65",
+        "year": 2005,
+        "category": "Business Development",
+        "id": 127
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Upton-Kris",
+        "price": "$27.65",
+        "slogan": "whiteboard end-to-end interfaces",
+        "version": "0.84",
+        "year": 1987,
+        "category": "Engineering",
+        "id": 128
+    },
+    {
+        "product": "Bitchip",
+        "company": "Kemmer and Sons",
+        "price": "$8.58",
+        "slogan": "leverage strategic synergies",
+        "version": "1.2",
+        "year": 2006,
+        "category": "Support",
+        "id": 129
+    },
+    {
+        "product": "Fixflex",
+        "company": "Dietrich and Sons",
+        "price": "$71.20",
+        "slogan": "transition interactive web-readiness",
+        "version": "5.6.4",
+        "year": 2000,
+        "category": "Business Development",
+        "id": 130
+    },
+    {
+        "product": "Y-find",
+        "company": "Bergstrom Group",
+        "price": "$70.99",
+        "slogan": "envisioneer front-end networks",
+        "version": "0.16",
+        "year": 2000,
+        "category": "Legal",
+        "id": 131
+    },
+    {
+        "product": "Duobam",
+        "company": "Anderson, Morar and O'Hara",
+        "price": "$13.15",
+        "slogan": "target e-business technologies",
+        "version": "0.83",
+        "year": 2005,
+        "category": "Research and Development",
+        "id": 132
+    },
+    {
+        "product": "Gembucket",
+        "company": "Christiansen, Wintheiser and Emmerich",
+        "price": "$94.03",
+        "slogan": "matrix leading-edge bandwidth",
+        "version": "0.20",
+        "year": 2003,
+        "category": "Product Management",
+        "id": 133
+    },
+    {
+        "product": "Home Ing",
+        "company": "Hettinger, Marvin and Bergnaum",
+        "price": "$61.52",
+        "slogan": "scale seamless models",
+        "version": "0.8.8",
+        "year": 1989,
+        "category": "Accounting",
+        "id": 134
+    },
+    {
+        "product": "Rank",
+        "company": "Graham, Shields and Bergnaum",
+        "price": "$48.76",
+        "slogan": "visualize viral platforms",
+        "version": "7.16",
+        "year": 1993,
+        "category": "Legal",
+        "id": 135
+    },
+    {
+        "product": "Subin",
+        "company": "Wisozk-Labadie",
+        "price": "$9.33",
+        "slogan": "iterate open-source markets",
+        "version": "6.5",
+        "year": 2005,
+        "category": "Sales",
+        "id": 136
+    },
+    {
+        "product": "Redhold",
+        "company": "Boehm, Hamill and Eichmann",
+        "price": "$28.91",
+        "slogan": "reinvent revolutionary mindshare",
+        "version": "7.8.8",
+        "year": 1994,
+        "category": "Marketing",
+        "id": 137
+    },
+    {
+        "product": "Sonair",
+        "company": "Abshire LLC",
+        "price": "$58.42",
+        "slogan": "transition bleeding-edge portals",
+        "version": "2.8",
+        "year": 2000,
+        "category": "Product Management",
+        "id": 138
+    },
+    {
+        "product": "Tampflex",
+        "company": "Baumbach, Kuhic and Sauer",
+        "price": "$89.40",
+        "slogan": "aggregate leading-edge ROI",
+        "version": "1.49",
+        "year": 2011,
+        "category": "Training",
+        "id": 139
+    },
+    {
+        "product": "Tin",
+        "company": "Kutch, Lang and Dickens",
+        "price": "$97.43",
+        "slogan": "repurpose magnetic experiences",
+        "version": "5.1",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 140
+    },
+    {
+        "product": "Pannier",
+        "company": "Hermann Inc",
+        "price": "$8.03",
+        "slogan": "target killer e-markets",
+        "version": "8.4.4",
+        "year": 1988,
+        "category": "Services",
+        "id": 141
+    },
+    {
+        "product": "Gembucket",
+        "company": "Muller-Ruecker",
+        "price": "$0.80",
+        "slogan": "transform web-enabled schemas",
+        "version": "0.4.4",
+        "year": 2012,
+        "category": "Business Development",
+        "id": 142
+    },
+    {
+        "product": "Namfix",
+        "company": "Durgan and Sons",
+        "price": "$70.84",
+        "slogan": "grow real-time solutions",
+        "version": "0.1.3",
+        "year": 2011,
+        "category": "Services",
+        "id": 143
+    },
+    {
+        "product": "Pannier",
+        "company": "Renner Inc",
+        "price": "$96.24",
+        "slogan": "integrate front-end schemas",
+        "version": "6.9",
+        "year": 2006,
+        "category": "Accounting",
+        "id": 144
+    },
+    {
+        "product": "Veribet",
+        "company": "Reichert-Rice",
+        "price": "$11.49",
+        "slogan": "unleash intuitive niches",
+        "version": "8.92",
+        "year": 2007,
+        "category": "Engineering",
+        "id": 145
+    },
+    {
+        "product": "Redhold",
+        "company": "Gutmann-Carter",
+        "price": "$45.05",
+        "slogan": "utilize frictionless portals",
+        "version": "1.4.4",
+        "year": 2002,
+        "category": "Human Resources",
+        "id": 146
+    },
+    {
+        "product": "Tampflex",
+        "company": "Lemke Inc",
+        "price": "$91.64",
+        "slogan": "seize compelling systems",
+        "version": "0.95",
+        "year": 2009,
+        "category": "Product Management",
+        "id": 147
+    },
+    {
+        "product": "Zontrax",
+        "company": "Kertzmann-Jakubowski",
+        "price": "$36.05",
+        "slogan": "innovate magnetic systems",
+        "version": "5.2",
+        "year": 2006,
+        "category": "Accounting",
+        "id": 148
+    },
+    {
+        "product": "Vagram",
+        "company": "Pacocha Inc",
+        "price": "$84.01",
+        "slogan": "evolve cutting-edge e-services",
+        "version": "0.8.3",
+        "year": 2007,
+        "category": "Human Resources",
+        "id": 149
+    },
+    {
+        "product": "Transcof",
+        "company": "Wolff, Haag and Cremin",
+        "price": "$53.33",
+        "slogan": "reintermediate plug-and-play web services",
+        "version": "7.66",
+        "year": 2012,
+        "category": "Services",
+        "id": 150
+    },
+    {
+        "product": "Job",
+        "company": "Bayer, Borer and Bernhard",
+        "price": "$9.44",
+        "slogan": "optimize 24/7 infomediaries",
+        "version": "0.13",
+        "year": 2002,
+        "category": "Legal",
+        "id": 151
+    },
+    {
+        "product": "Treeflex",
+        "company": "Rohan-Koch",
+        "price": "$27.01",
+        "slogan": "streamline customized markets",
+        "version": "6.26",
+        "year": 2001,
+        "category": "Business Development",
+        "id": 152
+    },
+    {
+        "product": "Biodex",
+        "company": "Mosciski and Sons",
+        "price": "$9.99",
+        "slogan": "strategize collaborative vortals",
+        "version": "3.30",
+        "year": 2012,
+        "category": "Human Resources",
+        "id": 153
+    },
+    {
+        "product": "Tresom",
+        "company": "Price and Sons",
+        "price": "$4.57",
+        "slogan": "matrix collaborative methodologies",
+        "version": "7.0",
+        "year": 1985,
+        "category": "Marketing",
+        "id": 154
+    },
+    {
+        "product": "Bitwolf",
+        "company": "Reichert-Shields",
+        "price": "$70.94",
+        "slogan": "reintermediate leading-edge schemas",
+        "version": "0.68",
+        "year": 2012,
+        "category": "Engineering",
+        "id": 155
+    },
+    {
+        "product": "Treeflex",
+        "company": "Reichel, Considine and Rodriguez",
+        "price": "$32.09",
+        "slogan": "strategize e-business solutions",
+        "version": "0.8.3",
+        "year": 1991,
+        "category": "Services",
+        "id": 156
+    },
+    {
+        "product": "Zamit",
+        "company": "Willms and Sons",
+        "price": "$9.54",
+        "slogan": "incentivize best-of-breed infrastructures",
+        "version": "9.3",
+        "year": 2005,
+        "category": "Services",
+        "id": 157
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Schroeder Inc",
+        "price": "$27.45",
+        "slogan": "maximize 24/7 models",
+        "version": "0.45",
+        "year": 1987,
+        "category": "Training",
+        "id": 158
+    },
+    {
+        "product": "Kanlam",
+        "company": "Stark, Bruen and McKenzie",
+        "price": "$8.80",
+        "slogan": "redefine customized metrics",
+        "version": "7.84",
+        "year": 2007,
+        "category": "Training",
+        "id": 159
+    },
+    {
+        "product": "Alpha",
+        "company": "Cummerata-Sporer",
+        "price": "$45.80",
+        "slogan": "deploy enterprise partnerships",
+        "version": "0.4.6",
+        "year": 1999,
+        "category": "Legal",
+        "id": 160
+    },
+    {
+        "product": "Zathin",
+        "company": "Lind Group",
+        "price": "$74.82",
+        "slogan": "iterate interactive infrastructures",
+        "version": "6.2",
+        "year": 1991,
+        "category": "Accounting",
+        "id": 161
+    },
+    {
+        "product": "Latlux",
+        "company": "Farrell-Schuppe",
+        "price": "$94.51",
+        "slogan": "syndicate open-source e-markets",
+        "version": "0.8.1",
+        "year": 2002,
+        "category": "Legal",
+        "id": 162
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "O'Keefe, Howe and D'Amore",
+        "price": "$28.73",
+        "slogan": "cultivate e-business web services",
+        "version": "7.0.4",
+        "year": 2001,
+        "category": "Accounting",
+        "id": 163
+    },
+    {
+        "product": "Duobam",
+        "company": "Altenwerth Group",
+        "price": "$71.22",
+        "slogan": "monetize scalable platforms",
+        "version": "7.7",
+        "year": 2009,
+        "category": "Human Resources",
+        "id": 164
+    },
+    {
+        "product": "Cardguard",
+        "company": "Farrell, Haag and Weissnat",
+        "price": "$62.17",
+        "slogan": "reinvent real-time experiences",
+        "version": "2.79",
+        "year": 2009,
+        "category": "Marketing",
+        "id": 165
+    },
+    {
+        "product": "Vagram",
+        "company": "Kovacek, Streich and Walter",
+        "price": "$50.14",
+        "slogan": "innovate global e-business",
+        "version": "2.54",
+        "year": 2006,
+        "category": "Training",
+        "id": 166
+    },
+    {
+        "product": "Bigtax",
+        "company": "Becker LLC",
+        "price": "$7.93",
+        "slogan": "syndicate leading-edge niches",
+        "version": "3.9",
+        "year": 2010,
+        "category": "Support",
+        "id": 167
+    },
+    {
+        "product": "Viva",
+        "company": "Ullrich-Heaney",
+        "price": "$45.80",
+        "slogan": "deploy cross-platform infrastructures",
+        "version": "3.1.4",
+        "year": 2011,
+        "category": "Services",
+        "id": 168
+    },
+    {
+        "product": "Zamit",
+        "company": "Beier-Wiegand",
+        "price": "$6.07",
+        "slogan": "incentivize distributed content",
+        "version": "3.4",
+        "year": 2009,
+        "category": "Product Management",
+        "id": 169
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Hamill and Sons",
+        "price": "$52.80",
+        "slogan": "deliver user-centric communities",
+        "version": "8.1.9",
+        "year": 1983,
+        "category": "Services",
+        "id": 170
+    },
+    {
+        "product": "Lotlux",
+        "company": "Morar Group",
+        "price": "$2.18",
+        "slogan": "harness one-to-one portals",
+        "version": "4.1.6",
+        "year": 2012,
+        "category": "Sales",
+        "id": 171
+    },
+    {
+        "product": "Asoka",
+        "company": "Marquardt Group",
+        "price": "$47.58",
+        "slogan": "exploit global architectures",
+        "version": "2.1.6",
+        "year": 1997,
+        "category": "Accounting",
+        "id": 172
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Beier-Beahan",
+        "price": "$8.17",
+        "slogan": "incentivize magnetic initiatives",
+        "version": "9.8",
+        "year": 2002,
+        "category": "Human Resources",
+        "id": 173
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Wiza-Yundt",
+        "price": "$23.30",
+        "slogan": "utilize visionary solutions",
+        "version": "3.3",
+        "year": 1988,
+        "category": "Legal",
+        "id": 174
+    },
+    {
+        "product": "Sonsing",
+        "company": "Pfeffer-Lesch",
+        "price": "$1.36",
+        "slogan": "monetize dynamic applications",
+        "version": "0.41",
+        "year": 2001,
+        "category": "Human Resources",
+        "id": 175
+    },
+    {
+        "product": "Andalax",
+        "company": "Moen, Bashirian and Ullrich",
+        "price": "$75.33",
+        "slogan": "utilize one-to-one markets",
+        "version": "0.63",
+        "year": 2003,
+        "category": "Engineering",
+        "id": 176
+    },
+    {
+        "product": "Viva",
+        "company": "Kohler Inc",
+        "price": "$79.68",
+        "slogan": "e-enable compelling niches",
+        "version": "9.35",
+        "year": 2002,
+        "category": "Sales",
+        "id": 177
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Ruecker and Sons",
+        "price": "$73.08",
+        "slogan": "maximize seamless action-items",
+        "version": "2.1",
+        "year": 1986,
+        "category": "Legal",
+        "id": 178
+    },
+    {
+        "product": "Overhold",
+        "company": "Barrows Inc",
+        "price": "$90.33",
+        "slogan": "orchestrate rich platforms",
+        "version": "3.0.8",
+        "year": 2005,
+        "category": "Training",
+        "id": 179
+    },
+    {
+        "product": "Regrant",
+        "company": "Stokes-Green",
+        "price": "$7.05",
+        "slogan": "extend B2B vortals",
+        "version": "0.4.4",
+        "year": 2004,
+        "category": "Services",
+        "id": 180
+    },
+    {
+        "product": "Ventosanzap",
+        "company": "McDermott Group",
+        "price": "$50.40",
+        "slogan": "deliver impactful e-markets",
+        "version": "4.5.1",
+        "year": 2006,
+        "category": "Services",
+        "id": 181
+    },
+    {
+        "product": "Rank",
+        "company": "Mayer, Bergstrom and Mante",
+        "price": "$69.17",
+        "slogan": "target integrated solutions",
+        "version": "0.9.7",
+        "year": 2003,
+        "category": "Marketing",
+        "id": 182
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Bartoletti, Langworth and Rutherford",
+        "price": "$33.48",
+        "slogan": "expedite collaborative e-markets",
+        "version": "4.4.5",
+        "year": 1996,
+        "category": "Product Management",
+        "id": 183
+    },
+    {
+        "product": "Solarbreeze",
+        "company": "Fisher, Smith and Watsica",
+        "price": "$32.16",
+        "slogan": "engineer best-of-breed markets",
+        "version": "7.4",
+        "year": 2012,
+        "category": "Human Resources",
+        "id": 184
+    },
+    {
+        "product": "Bamity",
+        "company": "Shields Group",
+        "price": "$80.02",
+        "slogan": "streamline robust methodologies",
+        "version": "6.6",
+        "year": 2004,
+        "category": "Product Management",
+        "id": 185
+    },
+    {
+        "product": "Biodex",
+        "company": "Sawayn, Fay and Fritsch",
+        "price": "$35.13",
+        "slogan": "leverage transparent vortals",
+        "version": "0.93",
+        "year": 2009,
+        "category": "Research and Development",
+        "id": 186
+    },
+    {
+        "product": "Temp",
+        "company": "Morar Group",
+        "price": "$51.28",
+        "slogan": "seize holistic channels",
+        "version": "0.18",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 187
+    },
+    {
+        "product": "Alphazap",
+        "company": "Cormier Group",
+        "price": "$32.30",
+        "slogan": "benchmark innovative infrastructures",
+        "version": "0.5.9",
+        "year": 1991,
+        "category": "Accounting",
+        "id": 188
+    },
+    {
+        "product": "Subin",
+        "company": "Ritchie LLC",
+        "price": "$11.33",
+        "slogan": "expedite clicks-and-mortar e-tailers",
+        "version": "0.9.2",
+        "year": 2010,
+        "category": "Support",
+        "id": 189
+    },
+    {
+        "product": "Stringtough",
+        "company": "Hahn, Runolfsdottir and Kreiger",
+        "price": "$99.52",
+        "slogan": "reintermediate e-business networks",
+        "version": "0.3.3",
+        "year": 2006,
+        "category": "Sales",
+        "id": 190
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Pfeffer, Schultz and Gislason",
+        "price": "$63.69",
+        "slogan": "brand end-to-end architectures",
+        "version": "0.52",
+        "year": 1984,
+        "category": "Marketing",
+        "id": 191
+    },
+    {
+        "product": "Holdlamis",
+        "company": "Armstrong, Dooley and Wintheiser",
+        "price": "$71.24",
+        "slogan": "visualize enterprise e-markets",
+        "version": "6.1.2",
+        "year": 1998,
+        "category": "Sales",
+        "id": 192
+    },
+    {
+        "product": "Prodder",
+        "company": "DuBuque-Waters",
+        "price": "$41.88",
+        "slogan": "reinvent integrated technologies",
+        "version": "0.67",
+        "year": 2011,
+        "category": "Training",
+        "id": 193
+    },
+    {
+        "product": "Asoka",
+        "company": "Kling LLC",
+        "price": "$48.87",
+        "slogan": "productize robust systems",
+        "version": "6.5",
+        "year": 1986,
+        "category": "Product Management",
+        "id": 194
+    },
+    {
+        "product": "Regrant",
+        "company": "Swaniawski Group",
+        "price": "$54.11",
+        "slogan": "benchmark scalable portals",
+        "version": "0.19",
+        "year": 1996,
+        "category": "Accounting",
+        "id": 195
+    },
+    {
+        "product": "Span",
+        "company": "Fahey, Nitzsche and King",
+        "price": "$8.09",
+        "slogan": "streamline extensible paradigms",
+        "version": "4.89",
+        "year": 2008,
+        "category": "Product Management",
+        "id": 196
+    },
+    {
+        "product": "Duobam",
+        "company": "Medhurst-Cronin",
+        "price": "$18.92",
+        "slogan": "synthesize 24/7 paradigms",
+        "version": "7.84",
+        "year": 1995,
+        "category": "Product Management",
+        "id": 197
+    },
+    {
+        "product": "Transcof",
+        "company": "Deckow Group",
+        "price": "$10.75",
+        "slogan": "whiteboard intuitive methodologies",
+        "version": "1.4",
+        "year": 2002,
+        "category": "Accounting",
+        "id": 198
+    },
+    {
+        "product": "Subin",
+        "company": "Nienow-Kris",
+        "price": "$62.34",
+        "slogan": "harness real-time e-business",
+        "version": "0.53",
+        "year": 1992,
+        "category": "Sales",
+        "id": 199
+    },
+    {
+        "product": "Lotlux",
+        "company": "Koepp-Fisher",
+        "price": "$71.16",
+        "slogan": "orchestrate cross-platform e-tailers",
+        "version": "1.4.8",
+        "year": 2002,
+        "category": "Engineering",
+        "id": 200
+    },
+    {
+        "product": "Regrant",
+        "company": "Emard LLC",
+        "price": "$35.43",
+        "slogan": "whiteboard best-of-breed niches",
+        "version": "2.3.4",
+        "year": 2010,
+        "category": "Accounting",
+        "id": 201
+    },
+    {
+        "product": "Overhold",
+        "company": "Baumbach-Barrows",
+        "price": "$89.20",
+        "slogan": "e-enable mission-critical deliverables",
+        "version": "7.09",
+        "year": 2009,
+        "category": "Business Development",
+        "id": 202
+    },
+    {
+        "product": "Latlux",
+        "company": "O'Keefe, Reilly and Schamberger",
+        "price": "$89.60",
+        "slogan": "transition extensible users",
+        "version": "0.38",
+        "year": 2007,
+        "category": "Human Resources",
+        "id": 203
+    },
+    {
+        "product": "Gembucket",
+        "company": "Stoltenberg, Beahan and Schinner",
+        "price": "$56.05",
+        "slogan": "incubate real-time paradigms",
+        "version": "0.64",
+        "year": 1993,
+        "category": "Services",
+        "id": 204
+    },
+    {
+        "product": "Opela",
+        "company": "Collier and Sons",
+        "price": "$2.05",
+        "slogan": "strategize granular applications",
+        "version": "0.7.4",
+        "year": 2007,
+        "category": "Support",
+        "id": 205
+    },
+    {
+        "product": "Job",
+        "company": "Cummings, Pacocha and Schulist",
+        "price": "$71.00",
+        "slogan": "facilitate vertical metrics",
+        "version": "4.42",
+        "year": 2010,
+        "category": "Legal",
+        "id": 206
+    },
+    {
+        "product": "Stronghold",
+        "company": "Kshlerin, Schneider and Runolfsson",
+        "price": "$65.29",
+        "slogan": "innovate revolutionary portals",
+        "version": "0.23",
+        "year": 2000,
+        "category": "Marketing",
+        "id": 207
+    },
+    {
+        "product": "Voyatouch",
+        "company": "Purdy, Frami and Aufderhar",
+        "price": "$21.24",
+        "slogan": "transition scalable e-commerce",
+        "version": "2.38",
+        "year": 1980,
+        "category": "Support",
+        "id": 208
+    },
+    {
+        "product": "Flowdesk",
+        "company": "Wilkinson Group",
+        "price": "$34.16",
+        "slogan": "engineer back-end interfaces",
+        "version": "8.7",
+        "year": 2010,
+        "category": "Research and Development",
+        "id": 209
+    },
+    {
+        "product": "Cookley",
+        "company": "Borer, Prosacco and O'Connell",
+        "price": "$47.23",
+        "slogan": "harness extensible action-items",
+        "version": "7.10",
+        "year": 1992,
+        "category": "Sales",
+        "id": 210
+    },
+    {
+        "product": "Fintone",
+        "company": "Haag-Mann",
+        "price": "$98.09",
+        "slogan": "leverage killer deliverables",
+        "version": "5.9",
+        "year": 1994,
+        "category": "Marketing",
+        "id": 211
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "O'Kon LLC",
+        "price": "$11.90",
+        "slogan": "incubate seamless functionalities",
+        "version": "6.6",
+        "year": 2010,
+        "category": "Legal",
+        "id": 212
+    },
+    {
+        "product": "Mat Lam Tam",
+        "company": "Breitenberg-Wisoky",
+        "price": "$58.94",
+        "slogan": "monetize turn-key architectures",
+        "version": "2.9.1",
+        "year": 2005,
+        "category": "Human Resources",
+        "id": 213
+    },
+    {
+        "product": "Y-find",
+        "company": "Fay-Hamill",
+        "price": "$0.57",
+        "slogan": "engineer bleeding-edge synergies",
+        "version": "8.52",
+        "year": 1998,
+        "category": "Training",
+        "id": 214
+    },
+    {
+        "product": "Mat Lam Tam",
+        "company": "Tromp-Leannon",
+        "price": "$79.49",
+        "slogan": "morph 24/365 supply-chains",
+        "version": "7.93",
+        "year": 2013,
+        "category": "Marketing",
+        "id": 215
+    },
+    {
+        "product": "Sonsing",
+        "company": "Koch, Rodriguez and Klein",
+        "price": "$63.20",
+        "slogan": "transition 24/365 convergence",
+        "version": "8.7.4",
+        "year": 1995,
+        "category": "Product Management",
+        "id": 216
+    },
+    {
+        "product": "Gembucket",
+        "company": "Kautzer and Sons",
+        "price": "$37.68",
+        "slogan": "harness bleeding-edge methodologies",
+        "version": "7.74",
+        "year": 2009,
+        "category": "Product Management",
+        "id": 217
+    },
+    {
+        "product": "Cardify",
+        "company": "Thompson, Champlin and Daugherty",
+        "price": "$91.14",
+        "slogan": "optimize next-generation methodologies",
+        "version": "8.7.5",
+        "year": 1985,
+        "category": "Training",
+        "id": 218
+    },
+    {
+        "product": "Namfix",
+        "company": "Tremblay Inc",
+        "price": "$36.54",
+        "slogan": "reinvent scalable paradigms",
+        "version": "7.0.0",
+        "year": 1992,
+        "category": "Support",
+        "id": 219
+    },
+    {
+        "product": "Fix San",
+        "company": "Johnson, Watsica and Hauck",
+        "price": "$84.50",
+        "slogan": "facilitate B2B ROI",
+        "version": "9.4.2",
+        "year": 2008,
+        "category": "Sales",
+        "id": 220
+    },
+    {
+        "product": "Konklab",
+        "company": "Kreiger Inc",
+        "price": "$74.05",
+        "slogan": "engage bleeding-edge applications",
+        "version": "4.1",
+        "year": 1985,
+        "category": "Product Management",
+        "id": 221
+    },
+    {
+        "product": "Fix San",
+        "company": "Morar and Sons",
+        "price": "$58.28",
+        "slogan": "streamline global architectures",
+        "version": "1.26",
+        "year": 2000,
+        "category": "Product Management",
+        "id": 222
+    },
+    {
+        "product": "Overhold",
+        "company": "Ziemann LLC",
+        "price": "$52.27",
+        "slogan": "generate synergistic schemas",
+        "version": "6.2.8",
+        "year": 1999,
+        "category": "Accounting",
+        "id": 223
+    },
+    {
+        "product": "Otcom",
+        "company": "Kunde, Walter and Daniel",
+        "price": "$85.05",
+        "slogan": "strategize B2C architectures",
+        "version": "0.97",
+        "year": 1993,
+        "category": "Engineering",
+        "id": 224
+    },
+    {
+        "product": "Otcom",
+        "company": "Vandervort, Runolfsdottir and Weber",
+        "price": "$81.15",
+        "slogan": "envisioneer 24/365 e-tailers",
+        "version": "2.58",
+        "year": 1987,
+        "category": "Services",
+        "id": 225
+    },
+    {
+        "product": "Sonair",
+        "company": "Kuhic and Sons",
+        "price": "$17.51",
+        "slogan": "e-enable collaborative channels",
+        "version": "9.7.8",
+        "year": 2012,
+        "category": "Legal",
+        "id": 226
+    },
+    {
+        "product": "Fix San",
+        "company": "Schinner, Strosin and Koch",
+        "price": "$96.42",
+        "slogan": "harness real-time metrics",
+        "version": "5.04",
+        "year": 2007,
+        "category": "Research and Development",
+        "id": 227
+    },
+    {
+        "product": "Domainer",
+        "company": "Ward and Sons",
+        "price": "$32.98",
+        "slogan": "empower dynamic infomediaries",
+        "version": "8.4.9",
+        "year": 1990,
+        "category": "Support",
+        "id": 228
+    },
+    {
+        "product": "Voyatouch",
+        "company": "Hansen and Sons",
+        "price": "$63.62",
+        "slogan": "streamline proactive ROI",
+        "version": "6.79",
+        "year": 1992,
+        "category": "Product Management",
+        "id": 229
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Fritsch, Renner and Beier",
+        "price": "$90.05",
+        "slogan": "strategize real-time schemas",
+        "version": "1.17",
+        "year": 1997,
+        "category": "Human Resources",
+        "id": 230
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Windler-Gottlieb",
+        "price": "$18.46",
+        "slogan": "transform clicks-and-mortar channels",
+        "version": "1.09",
+        "year": 2012,
+        "category": "Support",
+        "id": 231
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Aufderhar-Hessel",
+        "price": "$31.44",
+        "slogan": "leverage front-end applications",
+        "version": "2.3.0",
+        "year": 2010,
+        "category": "Legal",
+        "id": 232
+    },
+    {
+        "product": "Asoka",
+        "company": "Casper-Gottlieb",
+        "price": "$60.47",
+        "slogan": "scale sticky e-tailers",
+        "version": "4.1.7",
+        "year": 2000,
+        "category": "Services",
+        "id": 233
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Davis-Flatley",
+        "price": "$57.97",
+        "slogan": "transform real-time action-items",
+        "version": "0.4.1",
+        "year": 2006,
+        "category": "Sales",
+        "id": 234
+    },
+    {
+        "product": "Fixflex",
+        "company": "Franecki and Sons",
+        "price": "$41.09",
+        "slogan": "deliver value-added bandwidth",
+        "version": "1.46",
+        "year": 2007,
+        "category": "Services",
+        "id": 235
+    },
+    {
+        "product": "It",
+        "company": "Kemmer, Dickinson and Stroman",
+        "price": "$72.24",
+        "slogan": "reintermediate dynamic partnerships",
+        "version": "7.4.4",
+        "year": 2006,
+        "category": "Marketing",
+        "id": 236
+    },
+    {
+        "product": "Cardguard",
+        "company": "Kutch-Krajcik",
+        "price": "$92.37",
+        "slogan": "morph extensible action-items",
+        "version": "7.9",
+        "year": 1993,
+        "category": "Engineering",
+        "id": 237
+    },
+    {
+        "product": "Redhold",
+        "company": "Hackett, Doyle and Hane",
+        "price": "$86.13",
+        "slogan": "drive integrated schemas",
+        "version": "9.8.2",
+        "year": 1992,
+        "category": "Research and Development",
+        "id": 238
+    },
+    {
+        "product": "Job",
+        "company": "Willms and Sons",
+        "price": "$87.32",
+        "slogan": "recontextualize clicks-and-mortar relationships",
+        "version": "0.32",
+        "year": 1993,
+        "category": "Research and Development",
+        "id": 239
+    },
+    {
+        "product": "Cardify",
+        "company": "Schinner, Rice and Kreiger",
+        "price": "$14.23",
+        "slogan": "disintermediate synergistic infrastructures",
+        "version": "3.8",
+        "year": 1997,
+        "category": "Business Development",
+        "id": 240
+    },
+    {
+        "product": "It",
+        "company": "Pouros, Willms and Hills",
+        "price": "$50.82",
+        "slogan": "seize global networks",
+        "version": "4.7",
+        "year": 2009,
+        "category": "Accounting",
+        "id": 241
+    },
+    {
+        "product": "Treeflex",
+        "company": "Schamberger, Gleichner and Shields",
+        "price": "$63.78",
+        "slogan": "redefine extensible bandwidth",
+        "version": "8.5.7",
+        "year": 2007,
+        "category": "Training",
+        "id": 242
+    },
+    {
+        "product": "Biodex",
+        "company": "Heaney Group",
+        "price": "$61.91",
+        "slogan": "innovate B2C functionalities",
+        "version": "0.7.9",
+        "year": 2004,
+        "category": "Support",
+        "id": 243
+    },
+    {
+        "product": "Cardify",
+        "company": "Stanton Inc",
+        "price": "$27.64",
+        "slogan": "productize holistic e-tailers",
+        "version": "0.61",
+        "year": 1994,
+        "category": "Research and Development",
+        "id": 244
+    },
+    {
+        "product": "Temp",
+        "company": "Schumm LLC",
+        "price": "$13.52",
+        "slogan": "monetize front-end niches",
+        "version": "7.6.8",
+        "year": 2009,
+        "category": "Engineering",
+        "id": 245
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Ritchie, Cummerata and Spinka",
+        "price": "$50.82",
+        "slogan": "aggregate viral content",
+        "version": "0.3.5",
+        "year": 2001,
+        "category": "Engineering",
+        "id": 246
+    },
+    {
+        "product": "Bitchip",
+        "company": "Hilll LLC",
+        "price": "$93.35",
+        "slogan": "deploy bricks-and-clicks supply-chains",
+        "version": "0.51",
+        "year": 1992,
+        "category": "Services",
+        "id": 247
+    },
+    {
+        "product": "Trippledex",
+        "company": "Marks Inc",
+        "price": "$5.87",
+        "slogan": "incubate rich initiatives",
+        "version": "3.3",
+        "year": 2003,
+        "category": "Sales",
+        "id": 248
+    },
+    {
+        "product": "Span",
+        "company": "Vandervort-Reynolds",
+        "price": "$9.48",
+        "slogan": "utilize mission-critical initiatives",
+        "version": "5.3.1",
+        "year": 1994,
+        "category": "Marketing",
+        "id": 249
+    },
+    {
+        "product": "Ronstring",
+        "company": "Mraz-Wilkinson",
+        "price": "$30.05",
+        "slogan": "orchestrate cross-platform architectures",
+        "version": "0.9.7",
+        "year": 1991,
+        "category": "Research and Development",
+        "id": 250
+    },
+    {
+        "product": "Veribet",
+        "company": "Effertz, Bradtke and Hilll",
+        "price": "$57.93",
+        "slogan": "generate distributed e-services",
+        "version": "6.7.0",
+        "year": 1986,
+        "category": "Product Management",
+        "id": 251
+    },
+    {
+        "product": "Treeflex",
+        "company": "Tillman, O'Reilly and Johns",
+        "price": "$42.65",
+        "slogan": "cultivate cross-platform deliverables",
+        "version": "6.5",
+        "year": 2003,
+        "category": "Business Development",
+        "id": 252
+    },
+    {
+        "product": "Span",
+        "company": "Dare Inc",
+        "price": "$45.51",
+        "slogan": "drive viral schemas",
+        "version": "0.12",
+        "year": 1999,
+        "category": "Engineering",
+        "id": 253
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Champlin, Bernhard and Armstrong",
+        "price": "$36.76",
+        "slogan": "deploy user-centric methodologies",
+        "version": "0.8.2",
+        "year": 1991,
+        "category": "Services",
+        "id": 254
+    },
+    {
+        "product": "Trippledex",
+        "company": "Heller LLC",
+        "price": "$66.68",
+        "slogan": "incentivize mission-critical platforms",
+        "version": "5.48",
+        "year": 2010,
+        "category": "Business Development",
+        "id": 255
+    },
+    {
+        "product": "Alpha",
+        "company": "Thiel LLC",
+        "price": "$35.34",
+        "slogan": "drive web-enabled e-business",
+        "version": "0.4.1",
+        "year": 2006,
+        "category": "Services",
+        "id": 256
+    },
+    {
+        "product": "Span",
+        "company": "Rowe-Balistreri",
+        "price": "$48.45",
+        "slogan": "aggregate B2B experiences",
+        "version": "3.1",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 257
+    },
+    {
+        "product": "Zathin",
+        "company": "Grant LLC",
+        "price": "$60.26",
+        "slogan": "synergize rich niches",
+        "version": "7.8",
+        "year": 1989,
+        "category": "Legal",
+        "id": 258
+    },
+    {
+        "product": "Vagram",
+        "company": "Osinski-McClure",
+        "price": "$49.18",
+        "slogan": "deliver virtual mindshare",
+        "version": "0.23",
+        "year": 2010,
+        "category": "Human Resources",
+        "id": 259
+    },
+    {
+        "product": "Home Ing",
+        "company": "Windler-Effertz",
+        "price": "$32.42",
+        "slogan": "architect next-generation solutions",
+        "version": "8.9.8",
+        "year": 1990,
+        "category": "Sales",
+        "id": 260
+    },
+    {
+        "product": "Zoolab",
+        "company": "Hackett, Huels and Langworth",
+        "price": "$13.44",
+        "slogan": "transition killer architectures",
+        "version": "0.3.3",
+        "year": 1995,
+        "category": "Support",
+        "id": 261
+    },
+    {
+        "product": "Bitchip",
+        "company": "Larkin, Daugherty and Lang",
+        "price": "$73.25",
+        "slogan": "strategize distributed initiatives",
+        "version": "0.1.2",
+        "year": 1995,
+        "category": "Legal",
+        "id": 262
+    },
+    {
+        "product": "Lotstring",
+        "company": "Jast LLC",
+        "price": "$46.93",
+        "slogan": "deliver visionary paradigms",
+        "version": "7.4",
+        "year": 2001,
+        "category": "Training",
+        "id": 263
+    },
+    {
+        "product": "Biodex",
+        "company": "Sauer, Goldner and Parisian",
+        "price": "$12.45",
+        "slogan": "disintermediate dot-com users",
+        "version": "0.86",
+        "year": 2009,
+        "category": "Services",
+        "id": 264
+    },
+    {
+        "product": "Y-find",
+        "company": "Kuhlman, Mante and Bruen",
+        "price": "$38.14",
+        "slogan": "innovate synergistic mindshare",
+        "version": "1.98",
+        "year": 2005,
+        "category": "Research and Development",
+        "id": 265
+    },
+    {
+        "product": "Viva",
+        "company": "Hane Group",
+        "price": "$57.53",
+        "slogan": "grow holistic vortals",
+        "version": "1.76",
+        "year": 2001,
+        "category": "Marketing",
+        "id": 266
+    },
+    {
+        "product": "Holdlamis",
+        "company": "Auer-Kling",
+        "price": "$23.38",
+        "slogan": "incentivize mission-critical niches",
+        "version": "2.4",
+        "year": 2009,
+        "category": "Product Management",
+        "id": 267
+    },
+    {
+        "product": "It",
+        "company": "Heller and Sons",
+        "price": "$89.15",
+        "slogan": "orchestrate e-business technologies",
+        "version": "9.2",
+        "year": 2012,
+        "category": "Business Development",
+        "id": 268
+    },
+    {
+        "product": "Gembucket",
+        "company": "Fadel, Littel and Renner",
+        "price": "$68.35",
+        "slogan": "integrate mission-critical infrastructures",
+        "version": "3.3.2",
+        "year": 1991,
+        "category": "Support",
+        "id": 269
+    },
+    {
+        "product": "Overhold",
+        "company": "Zemlak LLC",
+        "price": "$24.74",
+        "slogan": "e-enable dynamic initiatives",
+        "version": "9.9.7",
+        "year": 2004,
+        "category": "Support",
+        "id": 270
+    },
+    {
+        "product": "Fix San",
+        "company": "Upton-Ebert",
+        "price": "$82.22",
+        "slogan": "whiteboard rich platforms",
+        "version": "0.9.3",
+        "year": 1993,
+        "category": "Training",
+        "id": 271
+    },
+    {
+        "product": "Biodex",
+        "company": "Mann-Hamill",
+        "price": "$76.81",
+        "slogan": "harness value-added e-tailers",
+        "version": "1.41",
+        "year": 2006,
+        "category": "Marketing",
+        "id": 272
+    },
+    {
+        "product": "Viva",
+        "company": "Swift, Howe and Bernhard",
+        "price": "$74.18",
+        "slogan": "reintermediate holistic deliverables",
+        "version": "8.3.8",
+        "year": 1999,
+        "category": "Marketing",
+        "id": 273
+    },
+    {
+        "product": "Lotlux",
+        "company": "Connelly and Sons",
+        "price": "$36.81",
+        "slogan": "enable dynamic synergies",
+        "version": "0.1.3",
+        "year": 2000,
+        "category": "Sales",
+        "id": 274
+    },
+    {
+        "product": "Lotlux",
+        "company": "Gusikowski-Jaskolski",
+        "price": "$86.52",
+        "slogan": "drive ubiquitous schemas",
+        "version": "3.3",
+        "year": 2006,
+        "category": "Services",
+        "id": 275
+    },
+    {
+        "product": "Bitwolf",
+        "company": "West-Kiehn",
+        "price": "$78.37",
+        "slogan": "transform impactful platforms",
+        "version": "0.17",
+        "year": 1992,
+        "category": "Training",
+        "id": 276
+    },
+    {
+        "product": "Vagram",
+        "company": "Glover and Sons",
+        "price": "$94.19",
+        "slogan": "reinvent world-class experiences",
+        "version": "0.43",
+        "year": 2006,
+        "category": "Services",
+        "id": 277
+    },
+    {
+        "product": "Biodex",
+        "company": "Greenholt LLC",
+        "price": "$96.77",
+        "slogan": "generate open-source e-tailers",
+        "version": "4.9.9",
+        "year": 1975,
+        "category": "Human Resources",
+        "id": 278
+    },
+    {
+        "product": "Solarbreeze",
+        "company": "Stoltenberg, Sawayn and Okuneva",
+        "price": "$33.88",
+        "slogan": "visualize scalable interfaces",
+        "version": "9.58",
+        "year": 1992,
+        "category": "Business Development",
+        "id": 279
+    },
+    {
+        "product": "Tampflex",
+        "company": "Prohaska, Schiller and Nolan",
+        "price": "$80.11",
+        "slogan": "syndicate user-centric web-readiness",
+        "version": "4.2.5",
+        "year": 2003,
+        "category": "Product Management",
+        "id": 280
+    },
+    {
+        "product": "Zamit",
+        "company": "Kris, Sipes and Hermann",
+        "price": "$96.94",
+        "slogan": "embrace user-centric ROI",
+        "version": "0.63",
+        "year": 2009,
+        "category": "Marketing",
+        "id": 281
+    },
+    {
+        "product": "Y-find",
+        "company": "Goyette, Bayer and Barton",
+        "price": "$27.77",
+        "slogan": "deploy 24/7 functionalities",
+        "version": "8.4",
+        "year": 2003,
+        "category": "Business Development",
+        "id": 282
+    },
+    {
+        "product": "Kanlam",
+        "company": "Farrell, Mayer and Beer",
+        "price": "$98.74",
+        "slogan": "deliver viral e-services",
+        "version": "0.70",
+        "year": 1995,
+        "category": "Marketing",
+        "id": 283
+    },
+    {
+        "product": "Rank",
+        "company": "Cartwright-Carter",
+        "price": "$62.38",
+        "slogan": "cultivate synergistic e-business",
+        "version": "0.9.3",
+        "year": 1995,
+        "category": "Services",
+        "id": 284
+    },
+    {
+        "product": "Flowdesk",
+        "company": "Schmeler Group",
+        "price": "$10.51",
+        "slogan": "scale e-business paradigms",
+        "version": "3.0.9",
+        "year": 2001,
+        "category": "Research and Development",
+        "id": 285
+    },
+    {
+        "product": "Aerified",
+        "company": "Ortiz-King",
+        "price": "$98.33",
+        "slogan": "orchestrate world-class convergence",
+        "version": "9.2.4",
+        "year": 1984,
+        "category": "Support",
+        "id": 286
+    },
+    {
+        "product": "Konklux",
+        "company": "Greenfelder LLC",
+        "price": "$43.61",
+        "slogan": "generate holistic synergies",
+        "version": "9.3",
+        "year": 2004,
+        "category": "Sales",
+        "id": 287
+    },
+    {
+        "product": "Greenlam",
+        "company": "Raynor, Ortiz and Prosacco",
+        "price": "$14.48",
+        "slogan": "optimize end-to-end deliverables",
+        "version": "0.52",
+        "year": 2011,
+        "category": "Support",
+        "id": 288
+    },
+    {
+        "product": "Treeflex",
+        "company": "Hansen and Sons",
+        "price": "$94.52",
+        "slogan": "engineer e-business synergies",
+        "version": "0.90",
+        "year": 2010,
+        "category": "Marketing",
+        "id": 289
+    },
+    {
+        "product": "Transcof",
+        "company": "Cartwright-Zboncak",
+        "price": "$46.04",
+        "slogan": "brand out-of-the-box synergies",
+        "version": "3.9.9",
+        "year": 2013,
+        "category": "Human Resources",
+        "id": 290
+    },
+    {
+        "product": "Treeflex",
+        "company": "Waters LLC",
+        "price": "$72.20",
+        "slogan": "extend sticky web-readiness",
+        "version": "0.8.1",
+        "year": 1996,
+        "category": "Engineering",
+        "id": 291
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Haag-Hartmann",
+        "price": "$40.24",
+        "slogan": "seize synergistic solutions",
+        "version": "0.33",
+        "year": 2005,
+        "category": "Business Development",
+        "id": 292
+    },
+    {
+        "product": "Bamity",
+        "company": "Pfannerstill, Glover and Satterfield",
+        "price": "$23.69",
+        "slogan": "maximize bricks-and-clicks metrics",
+        "version": "6.1.3",
+        "year": 2009,
+        "category": "Research and Development",
+        "id": 293
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Goyette Inc",
+        "price": "$11.43",
+        "slogan": "optimize enterprise supply-chains",
+        "version": "0.60",
+        "year": 1989,
+        "category": "Training",
+        "id": 294
+    },
+    {
+        "product": "Tresom",
+        "company": "Crist, Bode and Baumbach",
+        "price": "$41.93",
+        "slogan": "reinvent clicks-and-mortar experiences",
+        "version": "0.5.7",
+        "year": 2012,
+        "category": "Human Resources",
+        "id": 295
+    },
+    {
+        "product": "Konklab",
+        "company": "O'Kon-Rodriguez",
+        "price": "$14.90",
+        "slogan": "optimize killer platforms",
+        "version": "6.8",
+        "year": 1990,
+        "category": "Legal",
+        "id": 296
+    },
+    {
+        "product": "Tresom",
+        "company": "Christiansen-Jacobi",
+        "price": "$46.55",
+        "slogan": "benchmark customized e-business",
+        "version": "1.2",
+        "year": 1996,
+        "category": "Training",
+        "id": 297
+    },
+    {
+        "product": "Duobam",
+        "company": "Stamm LLC",
+        "price": "$23.86",
+        "slogan": "mesh revolutionary eyeballs",
+        "version": "0.9.1",
+        "year": 1996,
+        "category": "Human Resources",
+        "id": 298
+    },
+    {
+        "product": "Cardguard",
+        "company": "Prosacco-Morissette",
+        "price": "$63.92",
+        "slogan": "cultivate granular partnerships",
+        "version": "5.6.0",
+        "year": 1994,
+        "category": "Marketing",
+        "id": 299
+    },
+    {
+        "product": "Trippledex",
+        "company": "Muller Inc",
+        "price": "$65.47",
+        "slogan": "mesh frictionless e-services",
+        "version": "9.3",
+        "year": 1998,
+        "category": "Training",
+        "id": 300
+    },
+    {
+        "product": "Y-find",
+        "company": "Dicki, Wiegand and Crist",
+        "price": "$35.39",
+        "slogan": "utilize user-centric mindshare",
+        "version": "2.7",
+        "year": 2002,
+        "category": "Accounting",
+        "id": 301
+    },
+    {
+        "product": "Transcof",
+        "company": "Luettgen-Stark",
+        "price": "$17.44",
+        "slogan": "evolve sticky vortals",
+        "version": "6.60",
+        "year": 2000,
+        "category": "Business Development",
+        "id": 302
+    },
+    {
+        "product": "Cardify",
+        "company": "Koepp Group",
+        "price": "$22.67",
+        "slogan": "incubate transparent platforms",
+        "version": "0.16",
+        "year": 1972,
+        "category": "Business Development",
+        "id": 303
+    },
+    {
+        "product": "Otcom",
+        "company": "Mohr, Leuschke and Homenick",
+        "price": "$49.26",
+        "slogan": "deploy compelling synergies",
+        "version": "8.8.8",
+        "year": 1997,
+        "category": "Engineering",
+        "id": 304
+    },
+    {
+        "product": "Konklux",
+        "company": "Larkin and Sons",
+        "price": "$81.40",
+        "slogan": "redefine visionary schemas",
+        "version": "0.1.9",
+        "year": 2006,
+        "category": "Services",
+        "id": 305
+    },
+    {
+        "product": "Hatity",
+        "company": "Hahn-Mante",
+        "price": "$79.70",
+        "slogan": "engineer scalable functionalities",
+        "version": "2.0",
+        "year": 1995,
+        "category": "Legal",
+        "id": 306
+    },
+    {
+        "product": "Pannier",
+        "company": "Baumbach-O'Kon",
+        "price": "$57.63",
+        "slogan": "generate integrated channels",
+        "version": "9.26",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 307
+    },
+    {
+        "product": "Tampflex",
+        "company": "Ledner Inc",
+        "price": "$92.03",
+        "slogan": "facilitate distributed e-tailers",
+        "version": "2.5",
+        "year": 2010,
+        "category": "Marketing",
+        "id": 308
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Kassulke LLC",
+        "price": "$68.46",
+        "slogan": "syndicate viral infomediaries",
+        "version": "0.9.4",
+        "year": 2001,
+        "category": "Research and Development",
+        "id": 309
+    },
+    {
+        "product": "Job",
+        "company": "Lubowitz, Hand and Gerhold",
+        "price": "$29.46",
+        "slogan": "grow transparent infomediaries",
+        "version": "0.57",
+        "year": 1995,
+        "category": "Human Resources",
+        "id": 310
+    },
+    {
+        "product": "Biodex",
+        "company": "Langworth-Ferry",
+        "price": "$87.54",
+        "slogan": "exploit interactive communities",
+        "version": "0.1.2",
+        "year": 2003,
+        "category": "Research and Development",
+        "id": 311
+    },
+    {
+        "product": "Fintone",
+        "company": "Denesik, Bode and Keeling",
+        "price": "$28.12",
+        "slogan": "mesh killer ROI",
+        "version": "0.3.1",
+        "year": 2011,
+        "category": "Research and Development",
+        "id": 312
+    },
+    {
+        "product": "Kanlam",
+        "company": "Heller Group",
+        "price": "$0.97",
+        "slogan": "facilitate out-of-the-box partnerships",
+        "version": "2.12",
+        "year": 1992,
+        "category": "Training",
+        "id": 313
+    },
+    {
+        "product": "Toughjoyfax",
+        "company": "Tremblay-Veum",
+        "price": "$61.27",
+        "slogan": "mesh dynamic e-commerce",
+        "version": "0.21",
+        "year": 2005,
+        "category": "Accounting",
+        "id": 314
+    },
+    {
+        "product": "Span",
+        "company": "Bailey LLC",
+        "price": "$14.15",
+        "slogan": "incentivize next-generation ROI",
+        "version": "8.8",
+        "year": 2011,
+        "category": "Training",
+        "id": 315
+    },
+    {
+        "product": "Y-find",
+        "company": "Jakubowski-Wolff",
+        "price": "$45.68",
+        "slogan": "synthesize sexy action-items",
+        "version": "6.2",
+        "year": 1996,
+        "category": "Services",
+        "id": 316
+    },
+    {
+        "product": "Regrant",
+        "company": "Mills-Moen",
+        "price": "$95.95",
+        "slogan": "embrace world-class architectures",
+        "version": "0.4.4",
+        "year": 1994,
+        "category": "Legal",
+        "id": 317
+    },
+    {
+        "product": "Ventosanzap",
+        "company": "Marks, Weissnat and Champlin",
+        "price": "$84.83",
+        "slogan": "target bleeding-edge initiatives",
+        "version": "6.9",
+        "year": 1997,
+        "category": "Human Resources",
+        "id": 318
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "Quigley-Beahan",
+        "price": "$21.46",
+        "slogan": "benchmark distributed content",
+        "version": "9.4.6",
+        "year": 1996,
+        "category": "Marketing",
+        "id": 319
+    },
+    {
+        "product": "Fix San",
+        "company": "Dicki-Cole",
+        "price": "$62.53",
+        "slogan": "whiteboard dynamic experiences",
+        "version": "4.0.3",
+        "year": 2000,
+        "category": "Research and Development",
+        "id": 320
+    },
+    {
+        "product": "Pannier",
+        "company": "Wisozk-Fritsch",
+        "price": "$82.58",
+        "slogan": "implement dot-com functionalities",
+        "version": "0.7.1",
+        "year": 1997,
+        "category": "Sales",
+        "id": 321
+    },
+    {
+        "product": "Voyatouch",
+        "company": "Zemlak-Klein",
+        "price": "$27.68",
+        "slogan": "innovate sticky mindshare",
+        "version": "7.0",
+        "year": 1996,
+        "category": "Product Management",
+        "id": 322
+    },
+    {
+        "product": "Flexidy",
+        "company": "Quigley, Swaniawski and Gaylord",
+        "price": "$80.15",
+        "slogan": "mesh value-added platforms",
+        "version": "0.84",
+        "year": 1998,
+        "category": "Support",
+        "id": 323
+    },
+    {
+        "product": "Tampflex",
+        "company": "Krajcik-Ratke",
+        "price": "$90.71",
+        "slogan": "aggregate integrated systems",
+        "version": "0.26",
+        "year": 1984,
+        "category": "Sales",
+        "id": 324
+    },
+    {
+        "product": "Zathin",
+        "company": "O'Kon, Ortiz and Sauer",
+        "price": "$93.41",
+        "slogan": "recontextualize vertical bandwidth",
+        "version": "4.3.9",
+        "year": 2012,
+        "category": "Accounting",
+        "id": 325
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Haley and Sons",
+        "price": "$11.14",
+        "slogan": "drive distributed users",
+        "version": "1.45",
+        "year": 1986,
+        "category": "Legal",
+        "id": 326
+    },
+    {
+        "product": "Lotstring",
+        "company": "Ward-Kohler",
+        "price": "$50.16",
+        "slogan": "exploit cutting-edge applications",
+        "version": "2.95",
+        "year": 2008,
+        "category": "Training",
+        "id": 327
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Jacobi Group",
+        "price": "$76.77",
+        "slogan": "monetize magnetic systems",
+        "version": "3.9.2",
+        "year": 2008,
+        "category": "Training",
+        "id": 328
+    },
+    {
+        "product": "Treeflex",
+        "company": "Feil, Howell and Langosh",
+        "price": "$25.67",
+        "slogan": "optimize viral convergence",
+        "version": "6.2.2",
+        "year": 2007,
+        "category": "Support",
+        "id": 329
+    },
+    {
+        "product": "Toughjoyfax",
+        "company": "Brown, Collins and Pagac",
+        "price": "$88.04",
+        "slogan": "deploy transparent communities",
+        "version": "7.0",
+        "year": 1999,
+        "category": "Product Management",
+        "id": 330
+    },
+    {
+        "product": "Alpha",
+        "company": "Wunsch-McCullough",
+        "price": "$99.33",
+        "slogan": "enable dynamic interfaces",
+        "version": "6.7.9",
+        "year": 2007,
+        "category": "Engineering",
+        "id": 331
+    },
+    {
+        "product": "Otcom",
+        "company": "Price, Weissnat and Abshire",
+        "price": "$17.00",
+        "slogan": "enhance out-of-the-box web-readiness",
+        "version": "9.3.2",
+        "year": 2012,
+        "category": "Legal",
+        "id": 332
+    },
+    {
+        "product": "Ventosanzap",
+        "company": "Nikolaus-Greenfelder",
+        "price": "$83.00",
+        "slogan": "leverage sexy technologies",
+        "version": "0.2.5",
+        "year": 2006,
+        "category": "Business Development",
+        "id": 333
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Zulauf, Kshlerin and Balistreri",
+        "price": "$69.99",
+        "slogan": "transform cross-media e-commerce",
+        "version": "2.07",
+        "year": 1992,
+        "category": "Product Management",
+        "id": 334
+    },
+    {
+        "product": "Gembucket",
+        "company": "King LLC",
+        "price": "$25.91",
+        "slogan": "recontextualize ubiquitous markets",
+        "version": "4.56",
+        "year": 1996,
+        "category": "Research and Development",
+        "id": 335
+    },
+    {
+        "product": "Bigtax",
+        "company": "Frami, Krajcik and Nitzsche",
+        "price": "$67.78",
+        "slogan": "matrix holistic communities",
+        "version": "7.3",
+        "year": 2006,
+        "category": "Training",
+        "id": 336
+    },
+    {
+        "product": "Alphazap",
+        "company": "Olson, O'Hara and Hilll",
+        "price": "$66.41",
+        "slogan": "monetize extensible content",
+        "version": "2.32",
+        "year": 2012,
+        "category": "Legal",
+        "id": 337
+    },
+    {
+        "product": "Kanlam",
+        "company": "Streich-Schowalter",
+        "price": "$71.00",
+        "slogan": "e-enable frictionless paradigms",
+        "version": "0.68",
+        "year": 2005,
+        "category": "Research and Development",
+        "id": 338
+    },
+    {
+        "product": "Andalax",
+        "company": "Rempel-Botsford",
+        "price": "$57.19",
+        "slogan": "unleash mission-critical functionalities",
+        "version": "7.4",
+        "year": 1993,
+        "category": "Training",
+        "id": 339
+    },
+    {
+        "product": "Voyatouch",
+        "company": "Schneider LLC",
+        "price": "$97.02",
+        "slogan": "redefine wireless models",
+        "version": "2.29",
+        "year": 2002,
+        "category": "Sales",
+        "id": 340
+    },
+    {
+        "product": "Zathin",
+        "company": "Casper LLC",
+        "price": "$29.01",
+        "slogan": "iterate seamless e-commerce",
+        "version": "0.4.3",
+        "year": 2001,
+        "category": "Engineering",
+        "id": 341
+    },
+    {
+        "product": "Viva",
+        "company": "Hansen LLC",
+        "price": "$47.28",
+        "slogan": "generate integrated e-commerce",
+        "version": "0.6.0",
+        "year": 1989,
+        "category": "Product Management",
+        "id": 342
+    },
+    {
+        "product": "Kanlam",
+        "company": "Sanford Inc",
+        "price": "$85.19",
+        "slogan": "empower scalable channels",
+        "version": "7.0",
+        "year": 2006,
+        "category": "Sales",
+        "id": 343
+    },
+    {
+        "product": "Trippledex",
+        "company": "Haley-Legros",
+        "price": "$58.81",
+        "slogan": "incentivize turn-key web services",
+        "version": "0.55",
+        "year": 1999,
+        "category": "Services",
+        "id": 344
+    },
+    {
+        "product": "Andalax",
+        "company": "Wilkinson and Sons",
+        "price": "$46.61",
+        "slogan": "scale B2B markets",
+        "version": "8.8.3",
+        "year": 2004,
+        "category": "Product Management",
+        "id": 345
+    },
+    {
+        "product": "Rank",
+        "company": "Emmerich-Lockman",
+        "price": "$3.32",
+        "slogan": "productize turn-key channels",
+        "version": "0.12",
+        "year": 2004,
+        "category": "Sales",
+        "id": 346
+    },
+    {
+        "product": "Bitwolf",
+        "company": "Fay, Johnson and Corkery",
+        "price": "$56.86",
+        "slogan": "engage B2B methodologies",
+        "version": "0.47",
+        "year": 1988,
+        "category": "Services",
+        "id": 347
+    },
+    {
+        "product": "Span",
+        "company": "Keebler, Kuphal and Haag",
+        "price": "$85.71",
+        "slogan": "optimize granular web services",
+        "version": "4.66",
+        "year": 2010,
+        "category": "Support",
+        "id": 348
+    },
+    {
+        "product": "Alphazap",
+        "company": "Hand LLC",
+        "price": "$67.31",
+        "slogan": "target best-of-breed e-markets",
+        "version": "7.66",
+        "year": 1995,
+        "category": "Human Resources",
+        "id": 349
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Parisian and Sons",
+        "price": "$72.64",
+        "slogan": "transition bricks-and-clicks ROI",
+        "version": "0.6.6",
+        "year": 2001,
+        "category": "Marketing",
+        "id": 350
+    },
+    {
+        "product": "Bitwolf",
+        "company": "Brekke, Wilderman and Glover",
+        "price": "$7.72",
+        "slogan": "benchmark world-class users",
+        "version": "8.3",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 351
+    },
+    {
+        "product": "Home Ing",
+        "company": "Predovic-Hoeger",
+        "price": "$47.92",
+        "slogan": "incubate B2B supply-chains",
+        "version": "0.9.9",
+        "year": 1995,
+        "category": "Sales",
+        "id": 352
+    },
+    {
+        "product": "Zathin",
+        "company": "Homenick LLC",
+        "price": "$25.17",
+        "slogan": "expedite customized eyeballs",
+        "version": "7.42",
+        "year": 2008,
+        "category": "Training",
+        "id": 353
+    },
+    {
+        "product": "Gembucket",
+        "company": "Stoltenberg-Sawayn",
+        "price": "$40.12",
+        "slogan": "productize revolutionary applications",
+        "version": "4.0.9",
+        "year": 1999,
+        "category": "Sales",
+        "id": 354
+    },
+    {
+        "product": "Duobam",
+        "company": "Oberbrunner LLC",
+        "price": "$33.08",
+        "slogan": "grow 24/7 e-business",
+        "version": "1.4.1",
+        "year": 2003,
+        "category": "Research and Development",
+        "id": 355
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Baumbach, Carroll and Gusikowski",
+        "price": "$49.22",
+        "slogan": "harness B2B experiences",
+        "version": "0.3.9",
+        "year": 2008,
+        "category": "Research and Development",
+        "id": 356
+    },
+    {
+        "product": "Flowdesk",
+        "company": "Jakubowski-Barrows",
+        "price": "$52.16",
+        "slogan": "drive efficient vortals",
+        "version": "0.54",
+        "year": 1994,
+        "category": "Support",
+        "id": 357
+    },
+    {
+        "product": "Zathin",
+        "company": "Jakubowski, Shanahan and Willms",
+        "price": "$8.69",
+        "slogan": "streamline ubiquitous web-readiness",
+        "version": "4.0.2",
+        "year": 1993,
+        "category": "Support",
+        "id": 358
+    },
+    {
+        "product": "Alpha",
+        "company": "Nikolaus Group",
+        "price": "$95.69",
+        "slogan": "harness best-of-breed eyeballs",
+        "version": "5.12",
+        "year": 2012,
+        "category": "Accounting",
+        "id": 359
+    },
+    {
+        "product": "Cookley",
+        "company": "Barton, Bode and Torphy",
+        "price": "$14.45",
+        "slogan": "redefine next-generation initiatives",
+        "version": "5.5",
+        "year": 2003,
+        "category": "Sales",
+        "id": 360
+    },
+    {
+        "product": "Tampflex",
+        "company": "Jacobson LLC",
+        "price": "$33.04",
+        "slogan": "repurpose plug-and-play e-markets",
+        "version": "4.7",
+        "year": 2011,
+        "category": "Training",
+        "id": 361
+    },
+    {
+        "product": "Lotlux",
+        "company": "Boyer Inc",
+        "price": "$24.75",
+        "slogan": "envisioneer B2C convergence",
+        "version": "0.13",
+        "year": 2010,
+        "category": "Marketing",
+        "id": 362
+    },
+    {
+        "product": "Zoolab",
+        "company": "Koss-Roberts",
+        "price": "$44.18",
+        "slogan": "utilize world-class relationships",
+        "version": "7.75",
+        "year": 1993,
+        "category": "Product Management",
+        "id": 363
+    },
+    {
+        "product": "Tampflex",
+        "company": "Schiller, Greenfelder and Terry",
+        "price": "$7.46",
+        "slogan": "whiteboard bleeding-edge users",
+        "version": "0.3.0",
+        "year": 2006,
+        "category": "Support",
+        "id": 364
+    },
+    {
+        "product": "Transcof",
+        "company": "Carter-Maggio",
+        "price": "$67.10",
+        "slogan": "orchestrate robust niches",
+        "version": "2.70",
+        "year": 2013,
+        "category": "Marketing",
+        "id": 365
+    },
+    {
+        "product": "Regrant",
+        "company": "Padberg Inc",
+        "price": "$18.67",
+        "slogan": "evolve vertical networks",
+        "version": "6.4",
+        "year": 1994,
+        "category": "Training",
+        "id": 366
+    },
+    {
+        "product": "Regrant",
+        "company": "Schowalter, Lang and Wyman",
+        "price": "$52.44",
+        "slogan": "maximize leading-edge methodologies",
+        "version": "1.0",
+        "year": 1999,
+        "category": "Training",
+        "id": 367
+    },
+    {
+        "product": "Konklux",
+        "company": "Larkin, Buckridge and O'Connell",
+        "price": "$38.29",
+        "slogan": "synthesize 24/7 e-commerce",
+        "version": "3.30",
+        "year": 2012,
+        "category": "Engineering",
+        "id": 368
+    },
+    {
+        "product": "Alphazap",
+        "company": "Ritchie, O'Hara and Turcotte",
+        "price": "$6.54",
+        "slogan": "engage dynamic channels",
+        "version": "0.22",
+        "year": 2012,
+        "category": "Human Resources",
+        "id": 369
+    },
+    {
+        "product": "Fixflex",
+        "company": "Baumbach-DuBuque",
+        "price": "$76.51",
+        "slogan": "matrix e-business e-business",
+        "version": "4.2",
+        "year": 1993,
+        "category": "Training",
+        "id": 370
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Hane, Eichmann and Gorczany",
+        "price": "$16.11",
+        "slogan": "maximize interactive solutions",
+        "version": "0.4.2",
+        "year": 1994,
+        "category": "Training",
+        "id": 371
+    },
+    {
+        "product": "Matsoft",
+        "company": "Purdy-Smith",
+        "price": "$31.56",
+        "slogan": "revolutionize granular mindshare",
+        "version": "0.16",
+        "year": 1993,
+        "category": "Sales",
+        "id": 372
+    },
+    {
+        "product": "Hatity",
+        "company": "Zulauf, Batz and Cronin",
+        "price": "$81.16",
+        "slogan": "matrix dot-com e-tailers",
+        "version": "3.0",
+        "year": 1996,
+        "category": "Research and Development",
+        "id": 373
+    },
+    {
+        "product": "Rank",
+        "company": "Wilkinson-Paucek",
+        "price": "$27.51",
+        "slogan": "matrix frictionless methodologies",
+        "version": "5.6.3",
+        "year": 2011,
+        "category": "Product Management",
+        "id": 374
+    },
+    {
+        "product": "Vagram",
+        "company": "Bergstrom Inc",
+        "price": "$24.84",
+        "slogan": "mesh value-added mindshare",
+        "version": "2.61",
+        "year": 1985,
+        "category": "Marketing",
+        "id": 375
+    },
+    {
+        "product": "Otcom",
+        "company": "Kuhlman-Powlowski",
+        "price": "$43.92",
+        "slogan": "productize clicks-and-mortar functionalities",
+        "version": "2.74",
+        "year": 2003,
+        "category": "Research and Development",
+        "id": 376
+    },
+    {
+        "product": "Lotlux",
+        "company": "Rowe and Sons",
+        "price": "$15.40",
+        "slogan": "aggregate end-to-end portals",
+        "version": "2.2",
+        "year": 1996,
+        "category": "Business Development",
+        "id": 377
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Lehner-Bins",
+        "price": "$99.50",
+        "slogan": "disintermediate sexy schemas",
+        "version": "7.13",
+        "year": 2005,
+        "category": "Marketing",
+        "id": 378
+    },
+    {
+        "product": "Bitwolf",
+        "company": "Stiedemann and Sons",
+        "price": "$69.11",
+        "slogan": "integrate mission-critical deliverables",
+        "version": "8.9",
+        "year": 2002,
+        "category": "Accounting",
+        "id": 379
+    },
+    {
+        "product": "Duobam",
+        "company": "Mayer LLC",
+        "price": "$32.27",
+        "slogan": "leverage sticky convergence",
+        "version": "0.43",
+        "year": 2007,
+        "category": "Training",
+        "id": 380
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "Roberts, Bogan and Conroy",
+        "price": "$57.47",
+        "slogan": "facilitate plug-and-play deliverables",
+        "version": "7.0.8",
+        "year": 2012,
+        "category": "Sales",
+        "id": 381
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Yost Group",
+        "price": "$91.42",
+        "slogan": "harness integrated metrics",
+        "version": "4.0",
+        "year": 2011,
+        "category": "Training",
+        "id": 382
+    },
+    {
+        "product": "Hatity",
+        "company": "Lowe, McDermott and Bechtelar",
+        "price": "$83.45",
+        "slogan": "morph 24/365 infomediaries",
+        "version": "0.2.8",
+        "year": 2007,
+        "category": "Research and Development",
+        "id": 383
+    },
+    {
+        "product": "Hatity",
+        "company": "Legros, Schneider and Veum",
+        "price": "$31.92",
+        "slogan": "exploit granular channels",
+        "version": "0.19",
+        "year": 1995,
+        "category": "Legal",
+        "id": 384
+    },
+    {
+        "product": "Tresom",
+        "company": "Kuhic, Gerhold and Hilll",
+        "price": "$99.27",
+        "slogan": "grow front-end interfaces",
+        "version": "0.96",
+        "year": 1987,
+        "category": "Legal",
+        "id": 385
+    },
+    {
+        "product": "Viva",
+        "company": "Gleichner, Pagac and Jast",
+        "price": "$46.68",
+        "slogan": "engineer viral infomediaries",
+        "version": "3.01",
+        "year": 1994,
+        "category": "Marketing",
+        "id": 386
+    },
+    {
+        "product": "Otcom",
+        "company": "Gerhold Group",
+        "price": "$15.87",
+        "slogan": "brand impactful paradigms",
+        "version": "5.7",
+        "year": 1997,
+        "category": "Training",
+        "id": 387
+    },
+    {
+        "product": "Biodex",
+        "company": "Prohaska Inc",
+        "price": "$12.79",
+        "slogan": "incubate impactful web services",
+        "version": "0.26",
+        "year": 2005,
+        "category": "Human Resources",
+        "id": 388
+    },
+    {
+        "product": "Ventosanzap",
+        "company": "Kunze-Lindgren",
+        "price": "$97.32",
+        "slogan": "implement efficient partnerships",
+        "version": "8.7",
+        "year": 2004,
+        "category": "Legal",
+        "id": 389
+    },
+    {
+        "product": "Flexidy",
+        "company": "King-Jones",
+        "price": "$83.37",
+        "slogan": "synergize impactful systems",
+        "version": "7.18",
+        "year": 1974,
+        "category": "Engineering",
+        "id": 390
+    },
+    {
+        "product": "Bytecard",
+        "company": "Beer, Ebert and Dooley",
+        "price": "$52.71",
+        "slogan": "seize web-enabled portals",
+        "version": "6.4",
+        "year": 2006,
+        "category": "Business Development",
+        "id": 391
+    },
+    {
+        "product": "Treeflex",
+        "company": "Greenholt and Sons",
+        "price": "$22.85",
+        "slogan": "orchestrate real-time vortals",
+        "version": "8.85",
+        "year": 1988,
+        "category": "Sales",
+        "id": 392
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Tillman-Price",
+        "price": "$27.15",
+        "slogan": "innovate compelling action-items",
+        "version": "3.9.1",
+        "year": 2011,
+        "category": "Engineering",
+        "id": 393
+    },
+    {
+        "product": "Subin",
+        "company": "Borer, Abbott and Bartell",
+        "price": "$70.86",
+        "slogan": "repurpose integrated e-business",
+        "version": "5.2.6",
+        "year": 1989,
+        "category": "Legal",
+        "id": 394
+    },
+    {
+        "product": "Hatity",
+        "company": "Reilly Group",
+        "price": "$84.77",
+        "slogan": "brand magnetic relationships",
+        "version": "4.87",
+        "year": 1997,
+        "category": "Marketing",
+        "id": 395
+    },
+    {
+        "product": "Opela",
+        "company": "Padberg and Sons",
+        "price": "$71.75",
+        "slogan": "iterate leading-edge synergies",
+        "version": "1.2",
+        "year": 1998,
+        "category": "Business Development",
+        "id": 396
+    },
+    {
+        "product": "Tampflex",
+        "company": "Hegmann-King",
+        "price": "$79.06",
+        "slogan": "morph killer partnerships",
+        "version": "9.6",
+        "year": 1995,
+        "category": "Services",
+        "id": 397
+    },
+    {
+        "product": "Span",
+        "company": "Koch and Sons",
+        "price": "$40.44",
+        "slogan": "drive ubiquitous infrastructures",
+        "version": "5.57",
+        "year": 2005,
+        "category": "Legal",
+        "id": 398
+    },
+    {
+        "product": "Vagram",
+        "company": "Stark, Thompson and Kuphal",
+        "price": "$33.87",
+        "slogan": "deliver virtual architectures",
+        "version": "0.62",
+        "year": 2009,
+        "category": "Sales",
+        "id": 399
+    },
+    {
+        "product": "Kanlam",
+        "company": "Trantow Inc",
+        "price": "$33.01",
+        "slogan": "drive proactive infomediaries",
+        "version": "0.2.6",
+        "year": 1996,
+        "category": "Research and Development",
+        "id": 400
+    },
+    {
+        "product": "Holdlamis",
+        "company": "Graham-Kulas",
+        "price": "$18.78",
+        "slogan": "revolutionize front-end initiatives",
+        "version": "2.52",
+        "year": 2003,
+        "category": "Accounting",
+        "id": 401
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Dach, Turner and Kutch",
+        "price": "$30.20",
+        "slogan": "unleash cutting-edge markets",
+        "version": "1.2",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 402
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Weber, Homenick and Dickens",
+        "price": "$36.61",
+        "slogan": "strategize ubiquitous technologies",
+        "version": "2.7",
+        "year": 2005,
+        "category": "Product Management",
+        "id": 403
+    },
+    {
+        "product": "Zamit",
+        "company": "Torphy-Grant",
+        "price": "$64.06",
+        "slogan": "cultivate end-to-end markets",
+        "version": "2.9",
+        "year": 1993,
+        "category": "Engineering",
+        "id": 404
+    },
+    {
+        "product": "Domainer",
+        "company": "Brown Group",
+        "price": "$38.94",
+        "slogan": "implement next-generation channels",
+        "version": "0.70",
+        "year": 1987,
+        "category": "Services",
+        "id": 405
+    },
+    {
+        "product": "Bigtax",
+        "company": "Weimann-Nicolas",
+        "price": "$42.18",
+        "slogan": "generate customized content",
+        "version": "0.1.1",
+        "year": 2002,
+        "category": "Marketing",
+        "id": 406
+    },
+    {
+        "product": "Konklab",
+        "company": "Pouros, Lubowitz and Senger",
+        "price": "$21.71",
+        "slogan": "revolutionize plug-and-play content",
+        "version": "0.5.5",
+        "year": 2010,
+        "category": "Sales",
+        "id": 407
+    },
+    {
+        "product": "Biodex",
+        "company": "Ziemann-Raynor",
+        "price": "$87.28",
+        "slogan": "synergize real-time e-services",
+        "version": "9.3",
+        "year": 2007,
+        "category": "Business Development",
+        "id": 408
+    },
+    {
+        "product": "Zontrax",
+        "company": "Sanford-O'Kon",
+        "price": "$4.84",
+        "slogan": "engage vertical communities",
+        "version": "6.96",
+        "year": 2011,
+        "category": "Sales",
+        "id": 409
+    },
+    {
+        "product": "Subin",
+        "company": "Pacocha LLC",
+        "price": "$19.90",
+        "slogan": "empower proactive portals",
+        "version": "8.9.4",
+        "year": 2005,
+        "category": "Marketing",
+        "id": 410
+    },
+    {
+        "product": "Zoolab",
+        "company": "Stoltenberg-Abernathy",
+        "price": "$79.34",
+        "slogan": "leverage frictionless partnerships",
+        "version": "9.07",
+        "year": 1994,
+        "category": "Legal",
+        "id": 411
+    },
+    {
+        "product": "Trippledex",
+        "company": "Medhurst, Bergnaum and Stoltenberg",
+        "price": "$75.84",
+        "slogan": "transition magnetic web-readiness",
+        "version": "2.83",
+        "year": 1994,
+        "category": "Legal",
+        "id": 412
+    },
+    {
+        "product": "Bytecard",
+        "company": "Tremblay, Donnelly and Macejkovic",
+        "price": "$54.73",
+        "slogan": "optimize B2B niches",
+        "version": "0.7.6",
+        "year": 2002,
+        "category": "Services",
+        "id": 413
+    },
+    {
+        "product": "Y-find",
+        "company": "Keebler and Sons",
+        "price": "$4.89",
+        "slogan": "monetize synergistic paradigms",
+        "version": "0.11",
+        "year": 1999,
+        "category": "Marketing",
+        "id": 414
+    },
+    {
+        "product": "Prodder",
+        "company": "Herman, Mills and Barrows",
+        "price": "$40.19",
+        "slogan": "syndicate cutting-edge synergies",
+        "version": "8.1.8",
+        "year": 1998,
+        "category": "Accounting",
+        "id": 415
+    },
+    {
+        "product": "Cardify",
+        "company": "Ortiz-Kassulke",
+        "price": "$39.22",
+        "slogan": "generate synergistic web services",
+        "version": "6.2.8",
+        "year": 1995,
+        "category": "Human Resources",
+        "id": 416
+    },
+    {
+        "product": "Otcom",
+        "company": "Walker, Dibbert and Hoeger",
+        "price": "$30.12",
+        "slogan": "engage plug-and-play solutions",
+        "version": "5.7.1",
+        "year": 2011,
+        "category": "Legal",
+        "id": 417
+    },
+    {
+        "product": "Y-find",
+        "company": "Bashirian-Sauer",
+        "price": "$69.40",
+        "slogan": "optimize front-end e-services",
+        "version": "3.0.8",
+        "year": 1993,
+        "category": "Support",
+        "id": 418
+    },
+    {
+        "product": "Latlux",
+        "company": "Wuckert-Osinski",
+        "price": "$60.15",
+        "slogan": "aggregate turn-key initiatives",
+        "version": "0.3.1",
+        "year": 1993,
+        "category": "Services",
+        "id": 419
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Volkman, Miller and Gerlach",
+        "price": "$81.97",
+        "slogan": "recontextualize cutting-edge solutions",
+        "version": "6.76",
+        "year": 2011,
+        "category": "Legal",
+        "id": 420
+    },
+    {
+        "product": "Otcom",
+        "company": "Hagenes, Schulist and McLaughlin",
+        "price": "$89.45",
+        "slogan": "deploy impactful synergies",
+        "version": "0.2.9",
+        "year": 1999,
+        "category": "Training",
+        "id": 421
+    },
+    {
+        "product": "Otcom",
+        "company": "Kilback-Dibbert",
+        "price": "$34.57",
+        "slogan": "redefine cross-media e-business",
+        "version": "7.1",
+        "year": 2004,
+        "category": "Services",
+        "id": 422
+    },
+    {
+        "product": "Latlux",
+        "company": "Hand and Sons",
+        "price": "$5.53",
+        "slogan": "e-enable user-centric convergence",
+        "version": "9.3.0",
+        "year": 2013,
+        "category": "Training",
+        "id": 423
+    },
+    {
+        "product": "Voyatouch",
+        "company": "Waters-Zemlak",
+        "price": "$81.72",
+        "slogan": "envisioneer interactive content",
+        "version": "9.33",
+        "year": 2009,
+        "category": "Marketing",
+        "id": 424
+    },
+    {
+        "product": "Stringtough",
+        "company": "Streich-Leuschke",
+        "price": "$39.33",
+        "slogan": "deploy scalable e-commerce",
+        "version": "1.5.0",
+        "year": 2006,
+        "category": "Research and Development",
+        "id": 425
+    },
+    {
+        "product": "Transcof",
+        "company": "O'Connell, Schiller and Cartwright",
+        "price": "$8.06",
+        "slogan": "synergize next-generation e-commerce",
+        "version": "0.2.3",
+        "year": 1983,
+        "category": "Sales",
+        "id": 426
+    },
+    {
+        "product": "Transcof",
+        "company": "Cormier Inc",
+        "price": "$28.87",
+        "slogan": "grow global e-markets",
+        "version": "9.2",
+        "year": 2006,
+        "category": "Sales",
+        "id": 427
+    },
+    {
+        "product": "Sonair",
+        "company": "Bartoletti Group",
+        "price": "$26.60",
+        "slogan": "optimize value-added action-items",
+        "version": "3.8.2",
+        "year": 2012,
+        "category": "Support",
+        "id": 428
+    },
+    {
+        "product": "Viva",
+        "company": "Hamill-VonRueden",
+        "price": "$48.36",
+        "slogan": "syndicate enterprise applications",
+        "version": "3.0",
+        "year": 2003,
+        "category": "Sales",
+        "id": 429
+    },
+    {
+        "product": "Otcom",
+        "company": "Lubowitz, Sanford and Sawayn",
+        "price": "$60.47",
+        "slogan": "implement user-centric networks",
+        "version": "2.0",
+        "year": 1999,
+        "category": "Accounting",
+        "id": 430
+    },
+    {
+        "product": "Alpha",
+        "company": "Thiel, Denesik and Huels",
+        "price": "$30.53",
+        "slogan": "morph cutting-edge supply-chains",
+        "version": "0.7.7",
+        "year": 2008,
+        "category": "Product Management",
+        "id": 431
+    },
+    {
+        "product": "Tin",
+        "company": "Feest-Kohler",
+        "price": "$20.51",
+        "slogan": "enhance global communities",
+        "version": "6.8",
+        "year": 2010,
+        "category": "Legal",
+        "id": 432
+    },
+    {
+        "product": "Cookley",
+        "company": "Padberg, Leffler and Morar",
+        "price": "$44.79",
+        "slogan": "enhance one-to-one infrastructures",
+        "version": "0.2.3",
+        "year": 1996,
+        "category": "Sales",
+        "id": 433
+    },
+    {
+        "product": "Greenlam",
+        "company": "Bogisich-Fahey",
+        "price": "$82.11",
+        "slogan": "harness cutting-edge bandwidth",
+        "version": "3.5.4",
+        "year": 1986,
+        "category": "Accounting",
+        "id": 434
+    },
+    {
+        "product": "Redhold",
+        "company": "Kuhn-Lebsack",
+        "price": "$6.53",
+        "slogan": "grow dynamic experiences",
+        "version": "9.4",
+        "year": 1998,
+        "category": "Business Development",
+        "id": 435
+    },
+    {
+        "product": "Konklux",
+        "company": "Sipes, Cummerata and Macejkovic",
+        "price": "$28.06",
+        "slogan": "empower real-time e-tailers",
+        "version": "5.8",
+        "year": 1993,
+        "category": "Legal",
+        "id": 436
+    },
+    {
+        "product": "Domainer",
+        "company": "Tremblay, Kertzmann and Kertzmann",
+        "price": "$76.21",
+        "slogan": "synthesize rich e-tailers",
+        "version": "5.83",
+        "year": 1987,
+        "category": "Human Resources",
+        "id": 437
+    },
+    {
+        "product": "Namfix",
+        "company": "Kuhn-Rodriguez",
+        "price": "$95.60",
+        "slogan": "grow open-source platforms",
+        "version": "8.3",
+        "year": 1992,
+        "category": "Legal",
+        "id": 438
+    },
+    {
+        "product": "Fintone",
+        "company": "Zemlak, Boyer and Nikolaus",
+        "price": "$16.04",
+        "slogan": "disintermediate wireless paradigms",
+        "version": "6.1.0",
+        "year": 2010,
+        "category": "Product Management",
+        "id": 439
+    },
+    {
+        "product": "Voltsillam",
+        "company": "Bogisich and Sons",
+        "price": "$86.45",
+        "slogan": "iterate compelling metrics",
+        "version": "0.64",
+        "year": 2007,
+        "category": "Legal",
+        "id": 440
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Paucek Inc",
+        "price": "$12.35",
+        "slogan": "utilize granular ROI",
+        "version": "8.34",
+        "year": 2000,
+        "category": "Sales",
+        "id": 441
+    },
+    {
+        "product": "Andalax",
+        "company": "Balistreri LLC",
+        "price": "$79.40",
+        "slogan": "facilitate rich models",
+        "version": "0.84",
+        "year": 2011,
+        "category": "Marketing",
+        "id": 442
+    },
+    {
+        "product": "Keylex",
+        "company": "Rath Inc",
+        "price": "$85.22",
+        "slogan": "matrix extensible schemas",
+        "version": "0.69",
+        "year": 2002,
+        "category": "Support",
+        "id": 443
+    },
+    {
+        "product": "Lotlux",
+        "company": "Gleason, Veum and Stiedemann",
+        "price": "$30.61",
+        "slogan": "revolutionize strategic convergence",
+        "version": "0.7.2",
+        "year": 1992,
+        "category": "Sales",
+        "id": 444
+    },
+    {
+        "product": "Flexidy",
+        "company": "Davis, Kemmer and Schaden",
+        "price": "$34.35",
+        "slogan": "visualize integrated models",
+        "version": "0.71",
+        "year": 2010,
+        "category": "Legal",
+        "id": 445
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Walker-Klein",
+        "price": "$38.79",
+        "slogan": "syndicate rich eyeballs",
+        "version": "7.79",
+        "year": 2012,
+        "category": "Support",
+        "id": 446
+    },
+    {
+        "product": "Keylex",
+        "company": "Crist-Morar",
+        "price": "$43.91",
+        "slogan": "reintermediate cutting-edge architectures",
+        "version": "0.7.4",
+        "year": 1996,
+        "category": "Training",
+        "id": 447
+    },
+    {
+        "product": "Tresom",
+        "company": "Blick, Weissnat and Hills",
+        "price": "$77.41",
+        "slogan": "synthesize scalable markets",
+        "version": "0.83",
+        "year": 2005,
+        "category": "Legal",
+        "id": 448
+    },
+    {
+        "product": "Tresom",
+        "company": "Glover-Marquardt",
+        "price": "$66.90",
+        "slogan": "optimize best-of-breed infomediaries",
+        "version": "5.2",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 449
+    },
+    {
+        "product": "Bigtax",
+        "company": "Kilback-Orn",
+        "price": "$16.64",
+        "slogan": "repurpose dot-com channels",
+        "version": "0.49",
+        "year": 2012,
+        "category": "Human Resources",
+        "id": 450
+    },
+    {
+        "product": "Konklux",
+        "company": "Olson Inc",
+        "price": "$16.89",
+        "slogan": "incentivize intuitive mindshare",
+        "version": "5.2",
+        "year": 2008,
+        "category": "Product Management",
+        "id": 451
+    },
+    {
+        "product": "Tampflex",
+        "company": "Rohan Group",
+        "price": "$65.12",
+        "slogan": "e-enable plug-and-play e-business",
+        "version": "0.3.6",
+        "year": 2009,
+        "category": "Business Development",
+        "id": 452
+    },
+    {
+        "product": "Gembucket",
+        "company": "Lynch LLC",
+        "price": "$73.69",
+        "slogan": "matrix sexy interfaces",
+        "version": "8.44",
+        "year": 2008,
+        "category": "Business Development",
+        "id": 453
+    },
+    {
+        "product": "Zaam-Dox",
+        "company": "Little Inc",
+        "price": "$69.70",
+        "slogan": "e-enable seamless systems",
+        "version": "1.36",
+        "year": 2003,
+        "category": "Marketing",
+        "id": 454
+    },
+    {
+        "product": "Biodex",
+        "company": "Labadie, Blick and Wilkinson",
+        "price": "$98.46",
+        "slogan": "mesh open-source partnerships",
+        "version": "7.0",
+        "year": 1995,
+        "category": "Accounting",
+        "id": 455
+    },
+    {
+        "product": "Bigtax",
+        "company": "Leffler-Legros",
+        "price": "$9.33",
+        "slogan": "empower sticky platforms",
+        "version": "2.7.6",
+        "year": 2003,
+        "category": "Training",
+        "id": 456
+    },
+    {
+        "product": "Treeflex",
+        "company": "Wiza-Hills",
+        "price": "$72.65",
+        "slogan": "evolve strategic mindshare",
+        "version": "0.28",
+        "year": 1991,
+        "category": "Accounting",
+        "id": 457
+    },
+    {
+        "product": "Tres-Zap",
+        "company": "Rutherford-Hickle",
+        "price": "$86.01",
+        "slogan": "aggregate web-enabled experiences",
+        "version": "7.1",
+        "year": 1987,
+        "category": "Business Development",
+        "id": 458
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Considine, Mraz and Huels",
+        "price": "$39.48",
+        "slogan": "extend back-end models",
+        "version": "1.11",
+        "year": 1999,
+        "category": "Product Management",
+        "id": 459
+    },
+    {
+        "product": "Lotstring",
+        "company": "Labadie and Sons",
+        "price": "$98.53",
+        "slogan": "syndicate killer solutions",
+        "version": "2.97",
+        "year": 1995,
+        "category": "Product Management",
+        "id": 460
+    },
+    {
+        "product": "Keylex",
+        "company": "Muller-Koepp",
+        "price": "$1.10",
+        "slogan": "transition synergistic experiences",
+        "version": "7.9",
+        "year": 2011,
+        "category": "Engineering",
+        "id": 461
+    },
+    {
+        "product": "Bitwolf",
+        "company": "Auer LLC",
+        "price": "$3.83",
+        "slogan": "enable holistic partnerships",
+        "version": "3.8",
+        "year": 2008,
+        "category": "Engineering",
+        "id": 462
+    },
+    {
+        "product": "Span",
+        "company": "Beer LLC",
+        "price": "$92.09",
+        "slogan": "empower transparent methodologies",
+        "version": "0.2.8",
+        "year": 1991,
+        "category": "Product Management",
+        "id": 463
+    },
+    {
+        "product": "Stim",
+        "company": "Rodriguez-Kuhic",
+        "price": "$55.01",
+        "slogan": "engage distributed vortals",
+        "version": "2.0",
+        "year": 1991,
+        "category": "Engineering",
+        "id": 464
+    },
+    {
+        "product": "Konklux",
+        "company": "Pouros-Jacobi",
+        "price": "$31.72",
+        "slogan": "syndicate intuitive communities",
+        "version": "4.6.9",
+        "year": 2002,
+        "category": "Accounting",
+        "id": 465
+    },
+    {
+        "product": "Tin",
+        "company": "Daniel-Ullrich",
+        "price": "$60.68",
+        "slogan": "target plug-and-play synergies",
+        "version": "6.84",
+        "year": 2008,
+        "category": "Services",
+        "id": 466
+    },
+    {
+        "product": "Fix San",
+        "company": "Towne-Heaney",
+        "price": "$44.92",
+        "slogan": "monetize e-business content",
+        "version": "8.58",
+        "year": 1993,
+        "category": "Legal",
+        "id": 467
+    },
+    {
+        "product": "Wrapsafe",
+        "company": "Oberbrunner-Wolff",
+        "price": "$16.54",
+        "slogan": "matrix front-end technologies",
+        "version": "1.1",
+        "year": 1997,
+        "category": "Human Resources",
+        "id": 468
+    },
+    {
+        "product": "Solarbreeze",
+        "company": "McCullough, Huel and Jacobson",
+        "price": "$29.44",
+        "slogan": "extend out-of-the-box networks",
+        "version": "4.2.5",
+        "year": 1996,
+        "category": "Marketing",
+        "id": 469
+    },
+    {
+        "product": "Quo Lux",
+        "company": "Schaefer Inc",
+        "price": "$32.56",
+        "slogan": "aggregate user-centric architectures",
+        "version": "0.83",
+        "year": 2004,
+        "category": "Human Resources",
+        "id": 470
+    },
+    {
+        "product": "Flexidy",
+        "company": "Roberts Inc",
+        "price": "$98.25",
+        "slogan": "brand innovative models",
+        "version": "0.7.9",
+        "year": 2004,
+        "category": "Accounting",
+        "id": 471
+    },
+    {
+        "product": "Overhold",
+        "company": "Conroy and Sons",
+        "price": "$2.30",
+        "slogan": "cultivate user-centric markets",
+        "version": "1.5.3",
+        "year": 2008,
+        "category": "Human Resources",
+        "id": 472
+    },
+    {
+        "product": "Gembucket",
+        "company": "Kris, Moen and Carroll",
+        "price": "$73.04",
+        "slogan": "synthesize user-centric vortals",
+        "version": "1.4.6",
+        "year": 2006,
+        "category": "Product Management",
+        "id": 473
+    },
+    {
+        "product": "Temp",
+        "company": "Jast-Nader",
+        "price": "$92.19",
+        "slogan": "facilitate customized e-markets",
+        "version": "2.0.2",
+        "year": 1988,
+        "category": "Sales",
+        "id": 474
+    },
+    {
+        "product": "Treeflex",
+        "company": "Abbott LLC",
+        "price": "$73.48",
+        "slogan": "strategize enterprise mindshare",
+        "version": "7.5",
+        "year": 1998,
+        "category": "Product Management",
+        "id": 475
+    },
+    {
+        "product": "Sub-Ex",
+        "company": "Sporer, Wintheiser and Boehm",
+        "price": "$83.20",
+        "slogan": "implement bleeding-edge action-items",
+        "version": "0.9.2",
+        "year": 2002,
+        "category": "Marketing",
+        "id": 476
+    },
+    {
+        "product": "Flexidy",
+        "company": "Will Inc",
+        "price": "$67.56",
+        "slogan": "syndicate frictionless action-items",
+        "version": "0.91",
+        "year": 2007,
+        "category": "Research and Development",
+        "id": 477
+    },
+    {
+        "product": "Fix San",
+        "company": "Spencer LLC",
+        "price": "$1.15",
+        "slogan": "revolutionize proactive solutions",
+        "version": "8.4.8",
+        "year": 1990,
+        "category": "Research and Development",
+        "id": 478
+    },
+    {
+        "product": "Toughjoyfax",
+        "company": "Kub-Nader",
+        "price": "$6.56",
+        "slogan": "matrix enterprise convergence",
+        "version": "0.44",
+        "year": 1985,
+        "category": "Product Management",
+        "id": 479
+    },
+    {
+        "product": "Hatity",
+        "company": "Harber and Sons",
+        "price": "$77.47",
+        "slogan": "disintermediate proactive markets",
+        "version": "9.9",
+        "year": 2000,
+        "category": "Services",
+        "id": 480
+    },
+    {
+        "product": "Alphazap",
+        "company": "Swaniawski Inc",
+        "price": "$72.25",
+        "slogan": "deploy efficient deliverables",
+        "versi∏on": "0.4.3",
+        "year": 2011,
+        "category": "Human Resources",
+        "id": 481
+    },
+    {
+        "product": "Zamit",
+        "company": "Medhurst, Terry and Schuppe",
+        "price": "$88.31",
+        "slogan": "architect enterprise eyeballs",
+        "version": "0.50",
+        "year": 2007,
+        "category": "Product Management",
+        "id": 482
+    },
+    {
+        "product": "Otcom",
+        "company": "Stiedemann, Conroy and Hayes",
+        "price": "$56.96",
+        "slogan": "enhance open-source paradigms",
+        "version": "0.62",
+        "year": 2001,
+        "category": "Business Development",
+        "id": 483
+    },
+    {
+        "product": "Wrapsafe",
+        "company": "Shields, Nader and Hammes",
+        "price": "$50.25",
+        "slogan": "innovate enterprise functionalities",
+        "version": "0.57",
+        "year": 1992,
+        "category": "Support",
+        "id": 484
+    },
+    {
+        "product": "Cardify",
+        "company": "Mertz-Boyle",
+        "price": "$36.30",
+        "slogan": "syndicate holistic e-services",
+        "version": "9.99",
+        "year": 2011,
+        "category": "Engineering",
+        "id": 485
+    },
+    {
+        "product": "Hatity",
+        "company": "Dicki-Simonis",
+        "price": "$33.50",
+        "slogan": "envisioneer proactive solutions",
+        "version": "0.60",
+        "year": 2007,
+        "category": "Legal",
+        "id": 486
+    },
+    {
+        "product": "Gembucket",
+        "company": "Walsh, O'Reilly and Hackett",
+        "price": "$60.25",
+        "slogan": "innovate proactive interfaces",
+        "version": "0.4.3",
+        "year": 1999,
+        "category": "Services",
+        "id": 487
+    },
+    {
+        "product": "Y-Solowarm",
+        "company": "Sauer, Rogahn and Reichel",
+        "price": "$74.30",
+        "slogan": "facilitate leading-edge solutions",
+        "version": "0.7.6",
+        "year": 1997,
+        "category": "Sales",
+        "id": 488
+    },
+    {
+        "product": "Gembucket",
+        "company": "Bailey-Thiel",
+        "price": "$35.19",
+        "slogan": "evolve plug-and-play solutions",
+        "version": "0.38",
+        "year": 2005,
+        "category": "Support",
+        "id": 489
+    },
+    {
+        "product": "Wrapsafe",
+        "company": "McKenzie LLC",
+        "price": "$14.21",
+        "slogan": "grow cross-media mindshare",
+        "version": "4.64",
+        "year": 1987,
+        "category": "Engineering",
+        "id": 490
+    },
+    {
+        "product": "Stronghold",
+        "company": "Reilly, Kertzmann and Keeling",
+        "price": "$60.14",
+        "slogan": "innovate integrated users",
+        "version": "5.0",
+        "year": 2006,
+        "category": "Services",
+        "id": 491
+    },
+    {
+        "product": "Hatity",
+        "company": "Kling-Stiedemann",
+        "price": "$68.63",
+        "slogan": "streamline out-of-the-box eyeballs",
+        "version": "4.30",
+        "year": 1998,
+        "category": "Support",
+        "id": 492
+    },
+    {
+        "product": "Otcom",
+        "company": "Pouros-Ernser",
+        "price": "$96.08",
+        "slogan": "reintermediate plug-and-play e-services",
+        "version": "9.5.5",
+        "year": 2000,
+        "category": "Legal",
+        "id": 493
+    },
+    {
+        "product": "Treeflex",
+        "company": "Howell LLC",
+        "price": "$61.91",
+        "slogan": "morph enterprise portals",
+        "version": "0.68",
+        "year": 2012,
+        "category": "Accounting",
+        "id": 494
+    },
+    {
+        "product": "Overhold",
+        "company": "Parisian, Rau and Roberts",
+        "price": "$76.52",
+        "slogan": "facilitate synergistic action-items",
+        "version": "7.9",
+        "year": 2006,
+        "category": "Engineering",
+        "id": 495
+    },
+    {
+        "product": "Aerified",
+        "company": "Harvey, O'Kon and Wiegand",
+        "price": "$21.50",
+        "slogan": "transition bleeding-edge e-tailers",
+        "version": "1.64",
+        "year": 2006,
+        "category": "Business Development",
+        "id": 496
+    },
+    {
+        "product": "Biodex",
+        "company": "Prohaska-Rath",
+        "price": "$80.79",
+        "slogan": "optimize integrated markets",
+        "version": "4.5.9",
+        "year": 2001,
+        "category": "Product Management",
+        "id": 497
+    },
+    {
+        "product": "Daltfresh",
+        "company": "Jaskolski LLC",
+        "price": "$72.26",
+        "slogan": "synthesize interactive solutions",
+        "version": "4.14",
+        "year": 2013,
+        "category": "Engineering",
+        "id": 498
+    },
+    {
+        "product": "Tempsoft",
+        "company": "Weber, Jakubowski and Gibson",
+        "price": "$51.06",
+        "slogan": "syndicate synergistic initiatives",
+        "version": "1.97",
+        "year": 2005,
+        "category": "Sales",
+        "id": 499
+    },
+    {
+        "product": "Y-find",
+        "company": "Swaniawski LLC",
+        "price": "$89.21",
+        "slogan": "reintermediate next-generation e-business",
+        "version": "3.2.6",
+        "year": 1996,
+        "category": "Research and Development",
+        "id": 500
+    }
+]

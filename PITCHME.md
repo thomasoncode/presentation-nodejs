@@ -78,7 +78,7 @@ RESTful web service to access an inventory
 
 ## TL;DR require
 
-- if ./* then local module else
+- if './*' then local module else
 - core module else |
 - node_module |
 

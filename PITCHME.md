@@ -31,7 +31,7 @@
 
 ## Install
 1. Download LTS/Current
-1. Node Version Manager
+1. Node Version Manager |
 
 ---
 
@@ -76,6 +76,14 @@ RESTful web service to access an inventory
 
 ---
 
+## TL;DR require
+
+- if ./* then local module else
+- core module else |
+- node_module |
+
+---
+
 ## Module Creation
 ```javascript
 (function(exports, require, module, __filename, __dirname) {
@@ -86,14 +94,6 @@ RESTful web service to access an inventory
 @[2](our written code)
 
 --- 
-
-## TL;DR require
-
-1. core module  
-1. node_modules |
-1. local module |
-
----
 
 ## Exporting
 ---?code=./src/network-configuration&lang=javascript

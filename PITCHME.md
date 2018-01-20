@@ -14,7 +14,7 @@
 
 ---
 
-## Advantages**
+## Advantages
 
 - Server side JavaScript
 - Single Threaded
@@ -22,7 +22,7 @@
 
 ---
 
-## Disadvantages**
+## Disadvantages
 
 * JavaScript
 * Queues
@@ -39,16 +39,27 @@
 
 Create RESTful web service to access an inventory
 
----
-
-## Node Package Manager
-
 +++
 
+## Node Package Manager
+- Metadata
+- Package Repository
+
+### Create metadata
 ```bash
-
 npm init
+```
 
+---?code=package.json&lang=json
+
+### Package metadata
+
+---
+
+## Package Repository
+
+```bash
+npm install chalk --save
 ```
 
 

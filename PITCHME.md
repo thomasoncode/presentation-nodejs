@@ -67,7 +67,7 @@ RESTful web service to access an inventory
 ---?code=index.js&lang=javascript
 ## Application Entry Point
 @[1-3](import modules)
-@[5-15(handle incoming request)
+@[5-15](handle incoming request)
 @[17-19](listen for request)
 
 

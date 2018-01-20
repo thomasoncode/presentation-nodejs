@@ -35,6 +35,13 @@
 
 ---
 
+## What is in the Node box?
+- node engine |
+- core libraries |
+- node package manager (npm) |
+
+---
+
 ## Node Package Manager
 - Metadata
 - Package Repository
@@ -69,7 +76,7 @@ RESTful web service to access an inventory
 
 ---
 
-## Module Creation**
+## Module Creation
 ```javascript
 (function(exports, require, module, __filename, __dirname) {
   /* ... */

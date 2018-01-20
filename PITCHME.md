@@ -45,21 +45,21 @@ Create RESTful web service to access an inventory
 - Metadata
 - Package Repository
 
-### Create metadata
+---
+
 ```bash
 npm init
 ```
+@(create metadata file)
 
 ---?code=package.json&lang=json
-
-### Package metadata
+@(metadata file)
 
 ---
-
-## Package Repository
 
 ```bash
 npm install chalk --save
 ```
+@(install pacakges)
 
 

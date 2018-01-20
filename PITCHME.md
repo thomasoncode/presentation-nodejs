@@ -34,3 +34,21 @@
 
 1. Download LTS/Current
 1. Node Version Manager
+
+--
+
+Create RESTful web service to access an inventory
+
+---
+
+## Node Package Manager
+
++++
+
+```bash
+
+npm init
+
+```
+
+

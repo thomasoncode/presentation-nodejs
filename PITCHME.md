@@ -1,5 +1,4 @@
 @title[Node.js]
-
 # Node.js
 
 ---
@@ -34,10 +33,6 @@
 1. Download LTS/Current
 1. Node Version Manager
 
---
-
-Create RESTful web service to access an inventory
-
 ---
 
 ## Node Package Manager
@@ -45,22 +40,38 @@ Create RESTful web service to access an inventory
 - Package Repository
 
 ---
-
+@title[Create Metadata File]
 ```bash
 npm init
 ```
-**create metadata**
+**create metadata file**
 
 ---?code=package.json&lang=json
+@title[Pacakge.json]
 
 **metadata file or package.json**
 
 ---
-
+@title[install packages]
 ```bash
 npm install chalk --save
 ```
 **install packages**
+
+---
+
+RESTful web service to access an inventory
+
+---
+
+---?code=index.js&lang=javascript
+## Application Entry Point
+@[1-3](import modules)
+@[5-15(handle incoming request)
+@[17-19](listen for request)
+
+
+
 
 
 

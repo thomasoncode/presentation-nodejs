@@ -70,9 +70,9 @@ npm install chalk --save
 RESTful web service to access an inventory
 
 ---?code=index.js&lang=javascript
-@[1-3](import modules)
-@[5-15](handle incoming request)
-@[17-19](listen for request)
+@[1-4](import modules)
+@[7](handle incoming request)
+@[8](listen for request)
 
 ---
 
@@ -93,10 +93,45 @@ RESTful web service to access an inventory
 @[1](node injected objects)
 @[2](our written code)
 
---- 
+---?code=./src/network-configuration.js&lang=javascript
 
-## Exporting
----?code=./src/network-configuration&lang=javascript
+---
+
+## Callbacks
+
+- single thread
+- non-blocking i/o |
+
+
+---?code=./src/handle-request.js&lang=javascript
+@[4](HTTP headers)
+@[7-9](handle product request)
+@[9-11](all other request)
+@[12](always end the response)
+
+---?code=./src/product-controller.js&lang=javascript
+@[5](GET request)
+@[8](POST request)
+
+---?code=./src/get-product.js&lang=javascript
+@[4-5](product or products?)
+@[8-12](GET product)
+@[13-15](GET products)
+@[17-18](response)
+
+---?code=./src/get-product.js&lang=javascript
+@[3-5](append chunk to buffer)
+@[5-10](join chunks and log)
+
+---
+## Event Emitter
+
+- asynchronous
+- calls all listeners |
+- custom emitters |
+
+
+
 
 
 

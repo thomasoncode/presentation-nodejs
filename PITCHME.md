@@ -74,14 +74,6 @@ npm install chalk --save
 
 ---
 
-## TL;DR require
-
-- if './*' then local module else
-- core module else |
-- node_module |
-
----
-
 ## Module Creation
 ```javascript
 (function(exports, require, module, __filename, __dirname) {
@@ -90,6 +82,14 @@ npm install chalk --save
 ```
 @[1](node injected objects)
 @[2](our written code)
+
+---
+
+## TL;DR require
+
+- if './*' then local module else
+- core module else |
+- node_module |
 
 ---?code=./src/network-configuration.js&lang=javascript
 

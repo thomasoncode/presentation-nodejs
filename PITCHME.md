@@ -105,11 +105,16 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
-## Callbacks
+## Asynchronous Callback
+- execute code and return on completion |
+- ~~main thread~~ |
+- background thread execution |
+- add callback to queue |
+- main thread executes callback |
 
-- single thread
-- non-blocking i/o |
-- queues |
+Note:
+Makes node lightweight and efficient
+Long running callbacks can cause bottlenecks
 
 ---?code=./src/handle-request.js&lang=javascript
 @[4](HTTP headers)

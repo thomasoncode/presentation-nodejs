@@ -85,11 +85,8 @@ npm install chalk --save
 
 ---
 
-## TL;DR require
+## Require
 
-- if './*' then local module else
-- core module else |
-- node_module |
 
 ---?code=./src/network-configuration.js&lang=javascript
 
@@ -128,5 +125,5 @@ npm install chalk --save
 - calls all listeners |
 - custom emitters |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIwOTE1OTldfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc4MDc4OTddfQ==
 -->

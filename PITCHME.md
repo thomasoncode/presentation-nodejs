@@ -71,8 +71,6 @@ RESTful web service to access an inventory
 
 ---?code=index.js&lang=javascript
 @[1-4](import modules)
-@[7](handle incoming request)
-@[8](listen for request)
 
 ---
 

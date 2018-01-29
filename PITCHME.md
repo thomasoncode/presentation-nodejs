@@ -87,6 +87,14 @@ npm install chalk --save
 
 ## Require
 
+```javascript
+const http = require('http');
+const chalk = require('chalk');
+const {hostname,port} = require('./src/network-configuration');
+```
+@[1](core module)
+@[2](npm package)
+@[3](local module)
 
 ---?code=./src/network-configuration.js&lang=javascript
 

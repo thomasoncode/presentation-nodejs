@@ -151,3 +151,29 @@ Long running callbacks can cause bottlenecks
 - <p class="fragment highlight-green">Cloud</p>
 - Container
 
+---
+
+## Software Quality Attributes
+<table>
+  <tr>
+    <td>modifiability</td>
+    <td class="fragment">complex routes</td>
+  </tr>
+  <tr>
+    <td>performance</td>
+    <td class="fragment"><i class="fa fa-thumbs-o-up"></i></td>
+  </tr>
+  <tr>
+    <td>availability</td>
+    <td class="fragment"><i class="fa fa-thumbs-o-up"></i></td>
+  </tr>
+  <tr>
+    <td>security</td>
+    <td class="fragment">confidentiality, integrity, and availability (CIA triad)</td>
+  </tr>
+  <tr>
+    <td>usability</td>
+    <td class="fragment">documentation</td>
+  </tr>
+</table>
+

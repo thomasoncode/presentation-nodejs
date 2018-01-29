@@ -29,6 +29,10 @@
 
 ---
 
+RESTful web service to access an inventory
+
+---
+
 ## Install
 - Download LTS/Current
 - Node Version Manager |
@@ -65,12 +69,8 @@ npm install chalk --save
 ```
 **install packages**
 
----
-
-RESTful web service to access an inventory
-
 ---?code=index.js&lang=javascript
-@[1-4](import modules)
+@[1-4](modules)
 
 ---
 

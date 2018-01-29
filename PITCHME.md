@@ -95,7 +95,8 @@ RESTful web service to access an inventory
 
 ---?code=./src/network-configuration.js&lang=javascript
 
----
+---?code=index.js&lang=javascript
+@[7](handle incoming request)
 
 ## Callbacks
 
@@ -129,11 +130,3 @@ RESTful web service to access an inventory
 - asynchronous
 - calls all listeners |
 - custom emitters |
-
-
-
-
-
-
-
-

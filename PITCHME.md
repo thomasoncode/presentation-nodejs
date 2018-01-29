@@ -37,6 +37,10 @@ RESTful web service to access an inventory
 - Download LTS/Current
 - Node Version Manager |
 
+Note:
+Older version on the builder server (click)
+Install and switch between multiple versions
+
 ---
 
 ## What is in the Node box?

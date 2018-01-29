@@ -108,6 +108,7 @@ const {hostname,port} = require('./src/network-configuration');
 ---
 
 ## Asynchronous Callback
+
 - execute code and return on completion |
 - ~~main thread~~ |
 - background thread executes logic |

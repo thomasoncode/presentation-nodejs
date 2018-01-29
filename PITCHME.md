@@ -151,5 +151,3 @@ Long running callbacks can cause bottlenecks
 - <p class="fragment highlight-green">Cloud</p>
 - Container
 
-
-

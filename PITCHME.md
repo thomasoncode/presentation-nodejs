@@ -110,10 +110,9 @@ const {hostname,port} = require('./src/network-configuration');
 ## Asynchronous Callback
 
 - execute code and return on completion |
-- ~~main thread~~ |
-- background thread executes logic |
-- add callback to queue |
-- main thread executes callback |
+- background thread executes the logic |
+- adds callback to a queue |
+- main thread executes the callback
 
 Note:
 Makes node lightweight and efficient
@@ -135,13 +134,22 @@ Long running callbacks can cause bottlenecks
 @[13-15](GET products)
 @[17-18](response)
 
----?code=./src/get-product.js&lang=javascript
+---?code=./src/post-product.js&lang=javascript
 @[3-5](append chunk to buffer)
 @[5-10](join chunks and log)
 
 ---
 ## Event Emitter
 
-- asynchronous
+- asynchronous callback
 - calls all listeners |
 - custom emitters |
+
+---
+## Deployment
+- Local
+- <p class="fragment highlight-green">Cloud</p>
+- Container
+
+
+

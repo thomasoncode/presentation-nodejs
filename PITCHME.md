@@ -127,3 +127,6 @@ npm install chalk --save
 - asynchronous
 - calls all listeners |
 - custom emitters |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NjIwOTE1OTldfQ==
+-->

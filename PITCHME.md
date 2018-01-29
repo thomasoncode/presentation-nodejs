@@ -30,8 +30,8 @@
 ---
 
 ## Install
-1. Download LTS/Current
-1. Node Version Manager |
+- Download LTS/Current
+- Node Version Manager |
 
 ---
 
@@ -100,7 +100,6 @@ RESTful web service to access an inventory
 
 - single thread
 - non-blocking i/o |
-
 
 ---?code=./src/handle-request.js&lang=javascript
 @[4](HTTP headers)

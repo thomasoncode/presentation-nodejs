@@ -38,8 +38,7 @@ RESTful web service to access an inventory
 - Node Version Manager |
 
 Note:
-Older version on the builder server (click)
-Install and switch between multiple versions
+Older versions on the build server
 
 ---
 
@@ -101,6 +100,7 @@ const {hostname,port} = require('./src/network-configuration');
 @[3](local module)
 
 ---?code=./src/network-configuration.js&lang=javascript
+@[1](export object)
 
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
@@ -109,6 +109,7 @@ const {hostname,port} = require('./src/network-configuration');
 
 - single thread
 - non-blocking i/o |
+- queues |
 
 ---?code=./src/handle-request.js&lang=javascript
 @[4](HTTP headers)
@@ -136,6 +137,3 @@ const {hostname,port} = require('./src/network-configuration');
 - asynchronous
 - calls all listeners |
 - custom emitters |
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc4MDc4OTddfQ==
--->

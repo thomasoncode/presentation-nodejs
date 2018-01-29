@@ -105,6 +105,8 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
+---
+
 ## Asynchronous Callback
 - execute code and return on completion |
 - ~~main thread~~ |

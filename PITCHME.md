@@ -96,8 +96,8 @@ const {hostname,port} = require('./src/network-configuration');
 
 <div class="fragment">
 
-  ![Superman](img/superman.png)
-  
+![Superman](img/superman.png)
+
   </div>
  
 Note:

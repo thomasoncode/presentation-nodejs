@@ -6,7 +6,7 @@ module.exports = function (request, response) {
       body.push(chunk);
     }).on('end', () => {
       const json = Buffer.concat(body).toString();
-      console.log(console.log(chalk.blue(json)));
+      console.log(chalk.blue(json));
       response.statusCode = 201;
       response.end();
     });

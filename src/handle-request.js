@@ -7,7 +7,7 @@ module.exports = function (request, response) {
     if (path[0] === 'product') {
       productController(request, response);
     } else {
-      response.statusCode = 400;
+      response.statusCode = 404;
       response.end();
     }
 };

@@ -1,0 +1,88 @@
+{
+	"info": {
+		"name": "presentation-nodejs",
+		"_postman_id": "64b5b8ef-b69f-3c3d-864a-cdd82f028dff",
+		"description": "Iron Ape Example API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"product\": \"Otcom\",\n    \"company\": \"Parisian, Hoeger and Ruecker\",\n    \"price\": \"$54.27\",\n    \"slogan\": \"deliver enterprise channels\",\n    \"version\": \"0.4.2\",\n    \"year\": 2007,\n    \"category\": \"Services\",\n    \"id\": 10\n}"
+				},
+				"url": {
+					"raw": "127.0.0.1:8080/product",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8080",
+					"path": [
+						"product"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "POST product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"product\": \"Otcom\",\n    \"company\": \"Parisian, Hoeger and Ruecker\",\n    \"price\": \"$54.27\",\n    \"slogan\": \"deliver enterprise channels\",\n    \"version\": \"0.4.2\",\n    \"year\": 2007,\n    \"category\": \"Services\",\n    \"id\": 10\n}"
+				},
+				"url": {
+					"raw": "127.0.0.1:8080/product",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8080",
+					"path": [
+						"product"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET product by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"product\": \"Otcom\",\n    \"company\": \"Parisian, Hoeger and Ruecker\",\n    \"price\": \"$54.27\",\n    \"slogan\": \"deliver enterprise channels\",\n    \"version\": \"0.4.2\",\n    \"year\": 2007,\n    \"category\": \"Services\",\n    \"id\": 10\n}"
+				},
+				"url": {
+					"raw": "127.0.0.1:8080/product",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8080",
+					"path": [
+						"product"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

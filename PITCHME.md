@@ -23,8 +23,8 @@ RESTful web service to access an inventory
 ---
 
 ## Install
-- Download LTS/Current
-- Node Version Manager |
+- download LTS/Current |
+- node version manager (NVM) |
 
 Note:
 Older versions on the build server
@@ -32,15 +32,15 @@ Older versions on the build server
 ---?image=img/cardboard-box.png&size=contain
 
 ## What is in the box?
-- node engine (Google V8) |
+- Google V8 JS engine |
 - core libraries |
 - node package manager (npm) |
 
 ---
 
 ## Node Package Manager
-- Metadata
-- Package Repository
+- metadata |
+- package Repository |
 
 ---
 @title[Create Metadata File]
@@ -71,7 +71,7 @@ npm install chalk --save
   /* ... */
 });
 ```
-@[1](node injected objects)
+@[1-3](wrapper function)
 @[2](our written code)
 
 ---
@@ -79,13 +79,13 @@ npm install chalk --save
 ## Require
 
 ```javascript
+const {hostname,port} = require('./src/network-configuration');
 const http = require('http');
 const chalk = require('chalk');
-const {hostname,port} = require('./src/network-configuration');
 ```
-@[1](core module)
-@[2](npm package)
-@[3](local module)
+@[1](local module)
+@[2](core module)
+@[3](npm package)
 
 ---?code=./src/network-configuration.js&lang=javascript
 @[1](export object)
@@ -114,18 +114,18 @@ Long running callbacks can cause bottlenecks
 ---?code=./src/handle-request.js&lang=javascript
 @[4](HTTP headers)
 @[6](url)
-@[7-9](handle product request)
+@[7-8](handle product request)
 @[9-11](all other request)
 @[11](always end the response)
 
 ---?code=./src/product-controller.js&lang=javascript
-@[5](GET request)
-@[6](POST request)
+@[5-6](GET request)
+@[7-8](POST request)
 
 ---?code=./src/get-product.js&lang=javascript
 @[1]("product database")
 @[4-5](product or products?)
-@[8-12](GET product)
+@[9-12](GET product)
 @[13-15](GET products)
 @[17-18](response)
 
@@ -133,12 +133,13 @@ Long running callbacks can cause bottlenecks
 ## Event Emitter
 
 - calls all listeners |
-- asynchronous callback
+- asynchronous callback |
 - custom emitters |
 
 ---?code=./src/post-product.js&lang=javascript
-@[3-5](append chunk to buffer)
-@[5-10](join chunks and log)
+@[4](buffer creation)
+@[6](append next chunk to buffer)
+@[8-9](join chunks and log)
 
 ---?code=index.js&lang=javascript
 @[8](listen for request)
@@ -166,11 +167,12 @@ node index.js
 
 ---
 
-## What about?
+## Quality Attributes
 
-- Complex routes |
+- Availability |
+- Modifiability |
 - Security |
-- Logging |
+- Testability |
 - Error handling |
 
 ---
@@ -179,6 +181,6 @@ node index.js
 
 - Complex Routes |
 - Middleware |
-- Less startup cost |
+- Testing |
 
 

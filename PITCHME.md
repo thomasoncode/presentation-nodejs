@@ -87,18 +87,17 @@ const {hostname,port} = require('./src/network-configuration');
 @[7](handle incoming request)
 
 ---
+
 ## Asynchronous Callback
 
++++
 - main thread -> background thread |
 - background thread executes the logic |
 - class="fragment">adds callback to a queue |
 - main thread executes the callback |
-
-<div class="fragment">
-
-![Superman](img/superman.png)
-
-  </div>
++++
+<!-- .slide: data-transition="none" -->
+![1](img/superman.png)
  
 Note:
 Non-block I/O

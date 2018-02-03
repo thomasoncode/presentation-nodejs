@@ -87,6 +87,7 @@ const {hostname,port} = require('./src/network-configuration');
 @[7](handle incoming request)
 
 ---
+
 <div class="left">
 
 ## Asynchronous Callback

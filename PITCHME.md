@@ -152,10 +152,23 @@ node index.js
 
 ---
 ## Deployment
+
 - Local
 - <p class="fragment highlight-green">Cloud</p>
 - Container
 
 ---
+
+## What about?
+
+- Complex routes
+- Security
+- Logging
+- Error handling
+
+---
+
+## Frameworks
+
 
 

@@ -86,16 +86,17 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
----?image=img/superman.png&size=contain
+---?image=img/superman-50.png&size=contain
 
 ## Asynchronous Callback
 
-- execute code and return on completion |
+- main thread -> background thread |
 - background thread executes the logic |
 - adds callback to a queue |
-- main thread executes the callback
+- main thread executes the callback |
 
 Note:
+Non-block I/O
 Makes node lightweight and efficient
 Long running callbacks can cause bottlenecks
 

@@ -136,6 +136,9 @@ Long running callbacks can cause bottlenecks
 ---?code=index.js&lang=javascript
 @[8](listen for request)
 
+---?code=./src/listener.js&lang=javascript
+@[4](up and running)
+
 ---
 
 ```bash

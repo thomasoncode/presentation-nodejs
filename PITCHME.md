@@ -1,14 +1,15 @@
+---?image=img/node-logo.png&size=contain
 @title[Node.js]
-# Node.js
+Matt Thomas
 
 ---
 
 ## What is Node.js?
 
-- JavaScript runtime
-- server-side and x-platform
-- high performance web applications
-- 
+- JavaScript runtime (ES6+) |
+- server-side (x-platform) |
+- open source with a technical steering committee |
+- high performance web applications |
 
 ---
 
@@ -163,7 +164,7 @@ node index.js
 ## What about?
 
 - Complex routes |
-- Security (CIA Tirade) |
+- Security |
 - Logging |
 - Error handling |
 

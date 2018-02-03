@@ -86,7 +86,8 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
----?image=img/superman-50.png&size=contain
+---
+<div class="left">
 
 ## Asynchronous Callback
 
@@ -94,6 +95,13 @@ const {hostname,port} = require('./src/network-configuration');
 - background thread executes the logic |
 - adds callback to a queue |
 - main thread executes the callback |
+
+</div>
+<div class="right">
+
+![Superman](img/superman.png)
+
+</div>
 
 Note:
 Non-block I/O

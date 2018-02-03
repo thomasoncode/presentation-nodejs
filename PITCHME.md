@@ -13,22 +13,6 @@
 
 ---
 
-## Advantages
-
-- Server side JavaScript
-- Single Threaded
-- Easy to implement
-
----
-
-## Disadvantages
-
-* JavaScript
-* Queues
-* Analysis paralysis
-
----
-
 RESTful web service to access an inventory
 
 ---
@@ -40,10 +24,10 @@ RESTful web service to access an inventory
 Note:
 Older versions on the build server
 
----
+---?image=img/cardboard-box.png
 
 ## What is in the Node box?
-- node engine |
+- node engine (Google V8) |
 - core libraries |
 - node package manager (npm) |
 
@@ -58,19 +42,18 @@ Older versions on the build server
 ```bash
 npm init
 ```
-**create metadata file**
+@[1](create metadata file)
 
 ---?code=package.json&lang=json
-@title[Pacakge.json]
-
-**metadata file or package.json**
+@[6](npm run test)
+@[23](third party dependencies)
 
 ---
 @title[install packages]
 ```bash
 npm install chalk --save
 ```
-**install packages**
+@[1](install third party dependencies)
 
 ---?code=index.js&lang=javascript
 @[1-4](modules)
@@ -105,7 +88,7 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
----
+---?image=img/superman.png
 
 ## Asynchronous Callback
 

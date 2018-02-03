@@ -7,6 +7,7 @@
 
 - JavaScript runtime
 - server-side
+- single threaded
 - high performance web applications
 
 ---
@@ -92,9 +93,9 @@ const {hostname,port} = require('./src/network-configuration');
 
 +++
 <!-- .slide: data-transition="none" -->
-- main thread -> background thread |
+- single main thread -> background thread |
 - background thread executes the logic |
-- class="fragment">adds callback to a queue |
+- adds callback to a queue |
 - main thread executes the callback |
 +++?image=img/superman.png&size=contain
 <!-- .slide: data-transition="none" -->

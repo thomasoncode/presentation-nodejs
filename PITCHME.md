@@ -7,7 +7,6 @@
 
 - JavaScript runtime
 - server-side
-- single threaded
 - high performance web applications
 
 ---
@@ -89,19 +88,19 @@ const {hostname,port} = require('./src/network-configuration');
 
 ---
 
-## Asynchronous Callback
+## Asynchronous Callbacks
 
 +++
 <!-- .slide: data-transition="none" -->
-- single main thread -> background thread |
-- background thread executes the logic |
-- adds callback to a queue |
-- main thread executes the callback |
+- single threaded
+- utilize background threads
+- notifies main thread when done
 +++?image=img/superman.png&size=contain
+<!-- .slide: data-transition="none" -->
++++?image=img/train-wreck.png&size=contain
 <!-- .slide: data-transition="none" -->
  
 Note:
-Non-block I/O
 Makes node lightweight and efficient
 Long running callbacks can cause bottlenecks
 

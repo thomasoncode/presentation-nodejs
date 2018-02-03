@@ -1,6 +1,11 @@
 ---?image=img/node-logo.png&size=contain
 @title[Node.js]
+
+<div class="profile">
+
 Matt Thomas
+
+</div>
 
 ---
 
@@ -26,7 +31,7 @@ Older versions on the build server
 
 ---?image=img/cardboard-box.png&size=contain
 
-## What is in the Node box?
+## What is in the box?
 - node engine (Google V8) |
 - core libraries |
 - node package manager (npm) |

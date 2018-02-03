@@ -106,30 +106,42 @@ Long running callbacks can cause bottlenecks
 
 ---?code=./src/handle-request.js&lang=javascript
 @[4](HTTP headers)
+@[6](url)
 @[7-9](handle product request)
 @[9-11](all other request)
-@[12](always end the response)
+@[11](always end the response)
 
 ---?code=./src/product-controller.js&lang=javascript
 @[5](GET request)
-@[8](POST request)
+@[6](POST request)
 
 ---?code=./src/get-product.js&lang=javascript
+@[1]("product database")
 @[4-5](product or products?)
 @[8-12](GET product)
 @[13-15](GET products)
 @[17-18](response)
 
+---
+## Event Emitter
+
+- calls all listeners |
+- asynchronous callback
+- custom emitters |
+
 ---?code=./src/post-product.js&lang=javascript
 @[3-5](append chunk to buffer)
 @[5-10](join chunks and log)
 
----
-## Event Emitter
+---?code=index.js&lang=javascript
+@[8](listen for request)
 
-- asynchronous callback
-- calls all listeners |
-- custom emitters |
+---
+
+```bash
+node index.js
+```
+@[1](start our endpoint)
 
 ---
 ## Deployment

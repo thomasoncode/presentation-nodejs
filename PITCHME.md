@@ -97,7 +97,9 @@ const {hostname,port} = require('./src/network-configuration');
   <li class="fragment">main thread executes the callback</li>
 </div>
 <div class="right">
-  <img class="fragment" src="img/superman.png" />
+
+![Superman](img/superman.png) |
+
 </div>
 
 Note:

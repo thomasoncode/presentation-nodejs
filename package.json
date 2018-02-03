@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/thomasoncode/presentation-nodejs/issues"
   },
-  "homepage": "https://github.com/thomasoncode/presentation-nodejs#readme"
+  "homepage": "https://github.com/thomasoncode/presentation-nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
 }

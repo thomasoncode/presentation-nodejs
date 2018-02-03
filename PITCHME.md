@@ -6,8 +6,9 @@
 ## What is Node.js?
 
 - JavaScript runtime
-- server-side
+- server-side and x-platform
 - high performance web applications
+- 
 
 ---
 
@@ -161,14 +162,17 @@ node index.js
 
 ## What about?
 
-- Complex routes
-- Security
-- Logging
-- Error handling
+- Complex routes |
+- Security |
+- Logging |
+- Error handling |
 
 ---
 
 ## Frameworks
 
+- Complex Routes |
+- Middleware |
+- Less startup cost |
 
 

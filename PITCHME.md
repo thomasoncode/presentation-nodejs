@@ -92,12 +92,12 @@ const {hostname,port} = require('./src/network-configuration');
 
 +++
 <!-- .slide: data-transition="none" -->
-- single threaded
-- utilize background threads
-- notifies main thread when done
+- single threaded |
+- utilize background threads |
+- when done; notify main thread |
 +++?image=img/superman.png&size=contain
 <!-- .slide: data-transition="none" -->
-+++?image=img/train-wreck.png&size=contain
++++?image=img/train-wreck.jpg&size=contain
 <!-- .slide: data-transition="none" -->
  
 Note:

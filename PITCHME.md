@@ -96,7 +96,7 @@ const {hostname,port} = require('./src/network-configuration');
 - background thread executes the logic |
 - class="fragment">adds callback to a queue |
 - main thread executes the callback |
-+++?image=img/superman.png
++++?image=img/superman.png&size=contain
 <!-- .slide: data-transition="none" -->
  
 Note:

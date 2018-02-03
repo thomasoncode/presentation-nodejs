@@ -94,7 +94,11 @@ const {hostname,port} = require('./src/network-configuration');
 - class="fragment">adds callback to a queue |
 - main thread executes the callback |
 
-<div class="fragment">![Superman](img/superman.png)</div>
+<div class="fragment">
+
+  ![Superman](img/superman.png)
+  
+  </div>
  
 Note:
 Non-block I/O

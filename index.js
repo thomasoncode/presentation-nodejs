@@ -1,8 +1,10 @@
 const http = require('http');
-const {hostname,port} = require('./src/network-configuration');
+const networkConfiguration = require('./src/network-configuration');
 const handleRequest = require('./src/handle-request');
 const listener = require('./src/listener');
 
+const port = process.env.PORT || networkConfiguration.port;
+
 const server = http
   .createServer(handleRequest)
-  .listen(port, hostname, listener);
+  .listen(port, networkConfiguration.hostname, listener);

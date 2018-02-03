@@ -90,15 +90,14 @@ const {hostname,port} = require('./src/network-configuration');
 ## Asynchronous Callback
 
 <div class="left">
-  <span class="fragment">main thread -> background thread</span>
-  <span class="fragment">background thread executes the logic</span>
-  <span class="fragment">adds callback to a queue</span>
-  <span class="fragment">main thread executes the callback</span>
+  <ul>
+  <li class="fragment">main thread -> background thread</li>
+  <li class="fragment">background thread executes the logic</li>
+  <li class="fragment">adds callback to a queue</li>
+  <li class="fragment">main thread executes the callback</li>
 </div>
 <div class="right">
-
-![Superman](img/superman.png)
-
+  <img class="fragment" src="img/superman.png" />
 </div>
 
 Note:

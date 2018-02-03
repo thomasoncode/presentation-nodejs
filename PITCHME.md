@@ -5,11 +5,9 @@
 
 ## What is Node.js?
 
-- Javascript runtime
-- Single threaded
-- Event-driven
-- Non-blocking IO
-- Lightweight and efficient
+- JavaScript runtime
+- server-side
+- high performance web applications
 
 ---
 
@@ -24,7 +22,7 @@ RESTful web service to access an inventory
 Note:
 Older versions on the build server
 
----?image=img/cardboard-box.png
+---?image=img/cardboard-box.png&size=contain
 
 ## What is in the Node box?
 - node engine (Google V8) |
@@ -88,7 +86,7 @@ const {hostname,port} = require('./src/network-configuration');
 ---?code=index.js&lang=javascript
 @[7](handle incoming request)
 
----?image=img/superman.png
+---?image=img/superman.png&size=contain
 
 ## Asynchronous Callback
 

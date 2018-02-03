@@ -91,13 +91,13 @@ const {hostname,port} = require('./src/network-configuration');
 ## Asynchronous Callback
 
 +++
+<!-- .slide: data-transition="none" -->
 - main thread -> background thread |
 - background thread executes the logic |
 - class="fragment">adds callback to a queue |
 - main thread executes the callback |
-+++
++++?image=img/superman.png
 <!-- .slide: data-transition="none" -->
-![1](img/superman.png)
  
 Note:
 Non-block I/O

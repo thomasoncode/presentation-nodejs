@@ -89,19 +89,13 @@ const {hostname,port} = require('./src/network-configuration');
 ---
 ## Asynchronous Callback
 
-<div class="left">
-  <ul>
-  <li class="fragment">main thread -> background thread</li>
-  <li class="fragment">background thread executes the logic</li>
-  <li class="fragment">adds callback to a queue</li>
-  <li class="fragment">main thread executes the callback</li>
-</div>
-<div class="right">
+- main thread -> background thread |
+- background thread executes the logic |
+- class="fragment">adds callback to a queue |
+- main thread executes the callback |
 
-![Superman](img/superman.png) |
-
-</div>
-
+<div class="fragment">![Superman](img/superman.png)</div>
+ 
 Note:
 Non-block I/O
 Makes node lightweight and efficient

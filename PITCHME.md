@@ -90,12 +90,14 @@ const {hostname,port} = require('./src/network-configuration');
 ## Asynchronous Callback
 
 <div class="left">
+  <div>
 
 - main thread -> background thread |
 - background thread executes the logic |
 - adds callback to a queue |
 - main thread executes the callback |
 
+  </div>
 </div>
 <div class="right">
 

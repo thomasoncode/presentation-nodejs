@@ -200,7 +200,7 @@ nodemon *.js
 ## Frameworks
 
 <table>
-  <tr>
+  <tr class="fragment">
     <td>Web Application</td>
     <td>Express, Hapi</td>
   </tr>
@@ -213,7 +213,7 @@ nodemon *.js
     <td>Helmet</td>
   </tr>
   <tr class="fragment">
-    <td>Availability</td>
+    <td>Logging</td>
     <td>Winston, Bunyan</td>
   </tr>
 </table>

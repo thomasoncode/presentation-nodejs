@@ -54,30 +54,22 @@ npm init
 @[1](create metadata file)
 
 ---?code=package.json&lang=json
-@[6-10](custom batch scripts)
+@[6-10](custom scripts)
 @[25-27](third party dependencies)
 
 ---
-<div class="fragment">
 
-@title[install packages]
 ```bash
 npm install
 ```
 @[1](install all dependencies)
+ 
+---
 
-</div>
-
-<div class="fragment">
-
-@title[install packages]
 ```bash
 npm install chalk --save
 ```
 @[1](install third party dependencies)
-
-</div>
-
 
 ---?code=index.js&lang=javascript
 @[1-4](modules)
@@ -90,7 +82,7 @@ npm install chalk --save
   /* ... */
 });
 ```
-@[1-3](wrapper function)
+@[1](wrapper function)
 @[2](our written code)
 
 ---
@@ -98,19 +90,19 @@ npm install chalk --save
 ## Require
 
 ```javascript
-const {hostname,port} = require('./src/network-configuration');
+const networkConfiguration = require('./src/network-configuration');
 const http = require('http');
 const chalk = require('chalk');
 ```
 @[1](local module)
 @[2](core module)
-@[3](npm package)
+@[3](node_modules)
 
 ---?code=./src/network-configuration.js&lang=javascript
 @[1](export object)
 
 ---?code=index.js&lang=javascript
-@[7](handle incoming request)
+@[9](handle incoming request)
 
 ---
 
@@ -140,9 +132,10 @@ Long running callbacks can cause bottlenecks
 ---?code=./src/product-controller.js&lang=javascript
 @[5-6](GET request)
 @[7-8](POST request)
+@[9-12](all other verbs)
 
 ---?code=./src/get-product.js&lang=javascript
-@[1]("product database")
+@[1](import product database)
 @[4-5](product or products?)
 @[9-12](GET product)
 @[13-15](GET products)
@@ -151,27 +144,36 @@ Long running callbacks can cause bottlenecks
 ---
 ## Event Emitter
 
-- calls all listeners |
+- listen for custom events|
 - asynchronous callback |
 - custom emitters |
 
 ---?code=./src/post-product.js&lang=javascript
 @[4](buffer creation)
-@[6](append next chunk to buffer)
-@[8-9](join chunks and log)
+@[5-7](on data chunk; add to buffer)
+@[7-12](on end; join buffer)
 
 ---?code=index.js&lang=javascript
-@[8](listen for request)
+@[10](listen for request)
 
 ---?code=./src/listener.js&lang=javascript
-@[4](up and running)
+@[1](ES6 destructuring)
+@[10](ES6 string interpolation)
+@[10](application is ready)
 
 ---
 
 ```bash
 node index.js
 ```
-@[1](start our endpoint)
+@[1](start in production)
+
+---
+
+```bash
+nodemon *.js
+```
+@[1](start in development)
 
 ---
 
@@ -181,7 +183,7 @@ node index.js
 ## Deployment
 
 - Local
-- <p class="fragment highlight-green">Cloud</p>
+- Cloud
 - Container
 
 ---
@@ -192,14 +194,28 @@ node index.js
 - Modifiability |
 - Security |
 - Testability |
-- Error handling |
 
 ---
 
 ## Frameworks
 
-- Complex Routes |
-- Middleware |
-- Testing |
+<table>
+  <tr>
+    <td>Web Application</td>
+    <td>Express, Hapi</td>
+  </tr>
+  <tr class="fragment">
+    <td>Testing</td>
+    <td>Jasmine, Mocha Chai</td>
+  </tr>
+  <tr class="fragment">
+    <td>Security</td>
+    <td>Helmet</td>
+  </tr>
+  <tr class="fragment">
+    <td>Availability</td>
+    <td>Winston, Bunyan</td>
+  </tr>
+</table>
 
 

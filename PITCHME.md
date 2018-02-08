@@ -209,4 +209,10 @@ nodemon *.js
   </tr>
 </table>
 
+---
 
+## Disadvantages
+
+- JavaScript |
+- Complex logic |
+- Analysis paralysis |

@@ -182,9 +182,9 @@ nodemon *.js
 ---
 ## Deployment
 
-- Local
-- Cloud
-- Container
+- Local |
+- Cloud |
+- Container |
 
 ---
 

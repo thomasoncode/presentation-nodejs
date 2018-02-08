@@ -188,15 +188,6 @@ nodemon *.js
 
 ---
 
-## Quality Attributes
-
-- Availability |
-- Modifiability |
-- Security |
-- Testability |
-
----
-
 ## Frameworks
 
 <table>

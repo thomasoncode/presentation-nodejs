@@ -11,14 +11,18 @@ Matt Thomas
 
 ## What is Node.js?
 
-- JavaScript runtime (ES6+) |
-- server-side (x-platform) |
-- open source with a technical steering committee |
+- Modern JavaScript runtime |
 - high performance web applications |
+- cross platform |
+- open source with a technical steering committee |
 
 ---
 
 RESTful web service to access an inventory
+
+Note:
+POST and GET
+Single endpoint
 
 ---
 
@@ -27,7 +31,7 @@ RESTful web service to access an inventory
 - node version manager (NVM) |
 
 Note:
-Older versions on the build server
+Older applications and build servers
 
 ---?image=img/cardboard-box.png&size=contain
 
@@ -40,7 +44,7 @@ Older versions on the build server
 
 ## Node Package Manager
 - metadata |
-- package Repository |
+- package repository |
 
 ---
 @title[Create Metadata File]
@@ -50,15 +54,30 @@ npm init
 @[1](create metadata file)
 
 ---?code=package.json&lang=json
-@[6](npm run test)
-@[23](third party dependencies)
+@[6-10](custom batch scripts)
+@[25-27](third party dependencies)
 
 ---
+<div class="fragment">
+
+@title[install packages]
+```bash
+npm install
+```
+@[1](install all dependencies)
+
+</div>
+
+<div class="fragment">
+
 @title[install packages]
 ```bash
 npm install chalk --save
 ```
 @[1](install third party dependencies)
+
+</div>
+
 
 ---?code=index.js&lang=javascript
 @[1-4](modules)

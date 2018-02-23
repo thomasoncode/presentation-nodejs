@@ -196,16 +196,16 @@ nodemon *.js
     <td>Express, Hapi</td>
   </tr>
   <tr class="fragment">
-    <td>Testing</td>
-    <td>Jasmine, Mocha Chai</td>
-  </tr>
-  <tr class="fragment">
     <td>Security</td>
     <td>Helmet</td>
   </tr>
   <tr class="fragment">
     <td>Logging</td>
     <td>Winston, Bunyan</td>
+  </tr>
+  <tr class="fragment">
+    <td>Testing</td>
+    <td>Jasmine, Mocha Chai</td>
   </tr>
 </table>
 
